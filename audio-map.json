@@ -1,0 +1,2426 @@
+[
+  {
+    "verb": "burst",
+    "form": "first",
+    "source": "main",
+    "start": 4.0,
+    "end": 4.98,
+    "file": "assets/audio/burst-first.mp3"
+  },
+  {
+    "verb": "burst",
+    "form": "past",
+    "source": "main",
+    "start": 6.46,
+    "end": 7.56,
+    "file": "assets/audio/burst-past.mp3"
+  },
+  {
+    "verb": "burst",
+    "form": "participle",
+    "source": "main",
+    "start": 8.82,
+    "end": 9.88,
+    "file": "assets/audio/burst-participle.mp3"
+  },
+  {
+    "verb": "cost",
+    "form": "first",
+    "source": "main",
+    "start": 12.42,
+    "end": 13.28,
+    "file": "assets/audio/cost-first.mp3"
+  },
+  {
+    "verb": "cost",
+    "form": "past",
+    "source": "main",
+    "start": 14.82,
+    "end": 15.7,
+    "file": "assets/audio/cost-past.mp3"
+  },
+  {
+    "verb": "cost",
+    "form": "participle",
+    "source": "main",
+    "start": 17.1,
+    "end": 17.98,
+    "file": "assets/audio/cost-participle.mp3"
+  },
+  {
+    "verb": "cut",
+    "form": "first",
+    "source": "main",
+    "start": 20.48,
+    "end": 21.28,
+    "file": "assets/audio/cut-first.mp3"
+  },
+  {
+    "verb": "cut",
+    "form": "past",
+    "source": "main",
+    "start": 22.32,
+    "end": 23.14,
+    "file": "assets/audio/cut-past.mp3"
+  },
+  {
+    "verb": "cut",
+    "form": "participle",
+    "source": "main",
+    "start": 24.46,
+    "end": 25.32,
+    "file": "assets/audio/cut-participle.mp3"
+  },
+  {
+    "verb": "hit",
+    "form": "first",
+    "source": "main",
+    "start": 27.88,
+    "end": 28.58,
+    "file": "assets/audio/hit-first.mp3"
+  },
+  {
+    "verb": "hit",
+    "form": "past",
+    "source": "main",
+    "start": 29.56,
+    "end": 30.24,
+    "file": "assets/audio/hit-past.mp3"
+  },
+  {
+    "verb": "hit",
+    "form": "participle",
+    "source": "main",
+    "start": 31.44,
+    "end": 32.1,
+    "file": "assets/audio/hit-participle.mp3"
+  },
+  {
+    "verb": "hurt",
+    "form": "first",
+    "source": "main",
+    "start": 34.6,
+    "end": 35.34,
+    "file": "assets/audio/hurt-first.mp3"
+  },
+  {
+    "verb": "hurt",
+    "form": "past",
+    "source": "main",
+    "start": 36.32,
+    "end": 37.1,
+    "file": "assets/audio/hurt-past.mp3"
+  },
+  {
+    "verb": "hurt",
+    "form": "participle",
+    "source": "main",
+    "start": 38.14,
+    "end": 38.94,
+    "file": "assets/audio/hurt-participle.mp3"
+  },
+  {
+    "verb": "let",
+    "form": "first",
+    "source": "main",
+    "start": 41.42,
+    "end": 42.34,
+    "file": "assets/audio/let-first.mp3"
+  },
+  {
+    "verb": "let",
+    "form": "past",
+    "source": "main",
+    "start": 43.02,
+    "end": 43.92,
+    "file": "assets/audio/let-past.mp3"
+  },
+  {
+    "verb": "let",
+    "form": "participle",
+    "source": "main",
+    "start": 45.0,
+    "end": 45.86,
+    "file": "assets/audio/let-participle.mp3"
+  },
+  {
+    "verb": "put",
+    "form": "first",
+    "source": "main",
+    "start": 48.5,
+    "end": 49.26,
+    "file": "assets/audio/put-first.mp3"
+  },
+  {
+    "verb": "put",
+    "form": "past",
+    "source": "main",
+    "start": 50.1,
+    "end": 50.86,
+    "file": "assets/audio/put-past.mp3"
+  },
+  {
+    "verb": "put",
+    "form": "participle",
+    "source": "main",
+    "start": 51.82,
+    "end": 52.52,
+    "file": "assets/audio/put-participle.mp3"
+  },
+  {
+    "verb": "read",
+    "form": "first",
+    "source": "main",
+    "start": 55.64,
+    "end": 56.62,
+    "file": "assets/audio/read-first.mp3"
+  },
+  {
+    "verb": "read",
+    "form": "past",
+    "source": "main",
+    "start": 57.32,
+    "end": 58.28,
+    "file": "assets/audio/read-past.mp3"
+  },
+  {
+    "verb": "read",
+    "form": "participle",
+    "source": "main",
+    "start": 59.18,
+    "end": 60.14,
+    "file": "assets/audio/read-participle.mp3"
+  },
+  {
+    "verb": "set",
+    "form": "first",
+    "source": "main",
+    "start": 63.06,
+    "end": 63.94,
+    "file": "assets/audio/set-first.mp3"
+  },
+  {
+    "verb": "set",
+    "form": "past",
+    "source": "main",
+    "start": 64.86,
+    "end": 65.76,
+    "file": "assets/audio/set-past.mp3"
+  },
+  {
+    "verb": "set",
+    "form": "participle",
+    "source": "main",
+    "start": 66.58,
+    "end": 67.38,
+    "file": "assets/audio/set-participle.mp3"
+  },
+  {
+    "verb": "shut",
+    "form": "first",
+    "source": "main",
+    "start": 70.34,
+    "end": 71.4,
+    "file": "assets/audio/shut-first.mp3"
+  },
+  {
+    "verb": "shut",
+    "form": "past",
+    "source": "main",
+    "start": 72.26,
+    "end": 73.12,
+    "file": "assets/audio/shut-past.mp3"
+  },
+  {
+    "verb": "shut",
+    "form": "participle",
+    "source": "main",
+    "start": 74.2,
+    "end": 75.04,
+    "file": "assets/audio/shut-participle.mp3"
+  },
+  {
+    "verb": "build",
+    "form": "first",
+    "source": "main",
+    "start": 78.78,
+    "end": 79.84,
+    "file": "assets/audio/build-first.mp3"
+  },
+  {
+    "verb": "build",
+    "form": "past",
+    "source": "main",
+    "start": 80.64,
+    "end": 81.54,
+    "file": "assets/audio/build-past.mp3"
+  },
+  {
+    "verb": "build",
+    "form": "participle",
+    "source": "main",
+    "start": 82.32,
+    "end": 83.24,
+    "file": "assets/audio/build-participle.mp3"
+  },
+  {
+    "verb": "lend",
+    "form": "first",
+    "source": "main",
+    "start": 85.68,
+    "end": 86.76,
+    "file": "assets/audio/lend-first.mp3"
+  },
+  {
+    "verb": "lend",
+    "form": "past",
+    "source": "main",
+    "start": 87.86,
+    "end": 88.84,
+    "file": "assets/audio/lend-past.mp3"
+  },
+  {
+    "verb": "lend",
+    "form": "participle",
+    "source": "main",
+    "start": 89.96,
+    "end": 90.9,
+    "file": "assets/audio/lend-participle.mp3"
+  },
+  {
+    "verb": "send",
+    "form": "first",
+    "source": "main",
+    "start": 94.38,
+    "end": 95.52,
+    "file": "assets/audio/send-first.mp3"
+  },
+  {
+    "verb": "send",
+    "form": "past",
+    "source": "main",
+    "start": 96.32,
+    "end": 97.24,
+    "file": "assets/audio/send-past.mp3"
+  },
+  {
+    "verb": "send",
+    "form": "participle",
+    "source": "main",
+    "start": 97.94,
+    "end": 98.78,
+    "file": "assets/audio/send-participle.mp3"
+  },
+  {
+    "verb": "spend",
+    "form": "first",
+    "source": "main",
+    "start": 101.96,
+    "end": 103.08,
+    "file": "assets/audio/spend-first.mp3"
+  },
+  {
+    "verb": "spend",
+    "form": "past",
+    "source": "main",
+    "start": 104.08,
+    "end": 105.0,
+    "file": "assets/audio/spend-past.mp3"
+  },
+  {
+    "verb": "spend",
+    "form": "participle",
+    "source": "main",
+    "start": 105.9,
+    "end": 106.9,
+    "file": "assets/audio/spend-participle.mp3"
+  },
+  {
+    "verb": "deal",
+    "form": "first",
+    "source": "main",
+    "start": 111.52,
+    "end": 112.48,
+    "file": "assets/audio/deal-first.mp3"
+  },
+  {
+    "verb": "deal",
+    "form": "past",
+    "source": "main",
+    "start": 113.42,
+    "end": 114.4,
+    "file": "assets/audio/deal-past.mp3"
+  },
+  {
+    "verb": "deal",
+    "form": "participle",
+    "source": "main",
+    "start": 114.68,
+    "end": 115.94,
+    "file": "assets/audio/deal-participle.mp3"
+  },
+  {
+    "verb": "dream",
+    "form": "first",
+    "source": "main",
+    "start": 118.58,
+    "end": 119.66,
+    "file": "assets/audio/dream-first.mp3"
+  },
+  {
+    "verb": "dream",
+    "form": "past",
+    "source": "main",
+    "start": 120.48,
+    "end": 121.46,
+    "file": "assets/audio/dream-past.mp3"
+  },
+  {
+    "verb": "dream",
+    "form": "participle",
+    "source": "main",
+    "start": 122.06,
+    "end": 123.04,
+    "file": "assets/audio/dream-participle.mp3"
+  },
+  {
+    "verb": "feel",
+    "form": "first",
+    "source": "main",
+    "start": 125.7,
+    "end": 126.68,
+    "file": "assets/audio/feel-first.mp3"
+  },
+  {
+    "verb": "feel",
+    "form": "past",
+    "source": "main",
+    "start": 127.46,
+    "end": 128.34,
+    "file": "assets/audio/feel-past.mp3"
+  },
+  {
+    "verb": "feel",
+    "form": "participle",
+    "source": "main",
+    "start": 128.64,
+    "end": 129.92,
+    "file": "assets/audio/feel-participle.mp3"
+  },
+  {
+    "verb": "keep",
+    "form": "first",
+    "source": "main",
+    "start": 132.28,
+    "end": 133.28,
+    "file": "assets/audio/keep-first.mp3"
+  },
+  {
+    "verb": "keep",
+    "form": "past",
+    "source": "main",
+    "start": 133.58,
+    "end": 134.72,
+    "file": "assets/audio/keep-past.mp3"
+  },
+  {
+    "verb": "keep",
+    "form": "participle",
+    "source": "main",
+    "start": 135.54,
+    "end": 136.48,
+    "file": "assets/audio/keep-participle.mp3"
+  },
+  {
+    "verb": "leave",
+    "form": "first",
+    "source": "main",
+    "start": 139.38,
+    "end": 140.4,
+    "file": "assets/audio/leave-first.mp3"
+  },
+  {
+    "verb": "leave",
+    "form": "past",
+    "source": "main",
+    "start": 140.88,
+    "end": 141.86,
+    "file": "assets/audio/leave-past.mp3"
+  },
+  {
+    "verb": "leave",
+    "form": "participle",
+    "source": "main",
+    "start": 142.26,
+    "end": 143.14,
+    "file": "assets/audio/leave-participle.mp3"
+  },
+  {
+    "verb": "mean",
+    "form": "first",
+    "source": "main",
+    "start": 145.68,
+    "end": 146.86,
+    "file": "assets/audio/mean-first.mp3"
+  },
+  {
+    "verb": "mean",
+    "form": "past",
+    "source": "main",
+    "start": 147.36,
+    "end": 148.3,
+    "file": "assets/audio/mean-past.mp3"
+  },
+  {
+    "verb": "mean",
+    "form": "participle",
+    "source": "main",
+    "start": 149.02,
+    "end": 149.92,
+    "file": "assets/audio/mean-participle.mp3"
+  },
+  {
+    "verb": "sleep",
+    "form": "first",
+    "source": "main",
+    "start": 152.92,
+    "end": 154.34,
+    "file": "assets/audio/sleep-first.mp3"
+  },
+  {
+    "verb": "sleep",
+    "form": "past",
+    "source": "main",
+    "start": 154.24,
+    "end": 155.66,
+    "file": "assets/audio/sleep-past.mp3"
+  },
+  {
+    "verb": "sleep",
+    "form": "participle",
+    "source": "main",
+    "start": 156.24,
+    "end": 157.18,
+    "file": "assets/audio/sleep-participle.mp3"
+  },
+  {
+    "verb": "sweep",
+    "form": "first",
+    "source": "main",
+    "start": 160.12,
+    "end": 161.1,
+    "file": "assets/audio/sweep-first.mp3"
+  },
+  {
+    "verb": "sweep",
+    "form": "past",
+    "source": "main",
+    "start": 161.58,
+    "end": 162.64,
+    "file": "assets/audio/sweep-past.mp3"
+  },
+  {
+    "verb": "sweep",
+    "form": "participle",
+    "source": "main",
+    "start": 162.96,
+    "end": 164.0,
+    "file": "assets/audio/sweep-participle.mp3"
+  },
+  {
+    "verb": "burn",
+    "form": "first",
+    "source": "main",
+    "start": 166.36,
+    "end": 167.42,
+    "file": "assets/audio/burn-first.mp3"
+  },
+  {
+    "verb": "burn",
+    "form": "past",
+    "source": "main",
+    "start": 167.98,
+    "end": 168.96,
+    "file": "assets/audio/burn-past.mp3"
+  },
+  {
+    "verb": "burn",
+    "form": "participle",
+    "source": "main",
+    "start": 169.46,
+    "end": 170.4,
+    "file": "assets/audio/burn-participle.mp3"
+  },
+  {
+    "verb": "learn",
+    "form": "first",
+    "source": "main",
+    "start": 173.12,
+    "end": 174.22,
+    "file": "assets/audio/learn-first.mp3"
+  },
+  {
+    "verb": "learn",
+    "form": "past",
+    "source": "main",
+    "start": 174.66,
+    "end": 175.72,
+    "file": "assets/audio/learn-past.mp3"
+  },
+  {
+    "verb": "learn",
+    "form": "participle",
+    "source": "main",
+    "start": 176.18,
+    "end": 177.22,
+    "file": "assets/audio/learn-participle.mp3"
+  },
+  {
+    "verb": "smell",
+    "form": "first",
+    "source": "main",
+    "start": 179.88,
+    "end": 180.9,
+    "file": "assets/audio/smell-first.mp3"
+  },
+  {
+    "verb": "smell",
+    "form": "past",
+    "source": "main",
+    "start": 181.44,
+    "end": 182.46,
+    "file": "assets/audio/smell-past.mp3"
+  },
+  {
+    "verb": "smell",
+    "form": "participle",
+    "source": "main",
+    "start": 183.0,
+    "end": 183.98,
+    "file": "assets/audio/smell-participle.mp3"
+  },
+  {
+    "verb": "spell",
+    "form": "first",
+    "source": "main",
+    "start": 186.9,
+    "end": 187.96,
+    "file": "assets/audio/spell-first.mp3"
+  },
+  {
+    "verb": "spell",
+    "form": "past",
+    "source": "main",
+    "start": 188.46,
+    "end": 189.66,
+    "file": "assets/audio/spell-past.mp3"
+  },
+  {
+    "verb": "spell",
+    "form": "participle",
+    "source": "main",
+    "start": 190.18,
+    "end": 191.22,
+    "file": "assets/audio/spell-participle.mp3"
+  },
+  {
+    "verb": "bring",
+    "form": "first",
+    "source": "main",
+    "start": 194.24,
+    "end": 195.28,
+    "file": "assets/audio/bring-first.mp3"
+  },
+  {
+    "verb": "bring",
+    "form": "past",
+    "source": "main",
+    "start": 195.68,
+    "end": 196.62,
+    "file": "assets/audio/bring-past.mp3"
+  },
+  {
+    "verb": "bring",
+    "form": "participle",
+    "source": "main",
+    "start": 197.28,
+    "end": 198.3,
+    "file": "assets/audio/bring-participle.mp3"
+  },
+  {
+    "verb": "buy",
+    "form": "first",
+    "source": "main",
+    "start": 200.92,
+    "end": 201.86,
+    "file": "assets/audio/buy-first.mp3"
+  },
+  {
+    "verb": "buy",
+    "form": "past",
+    "source": "main",
+    "start": 202.5,
+    "end": 203.56,
+    "file": "assets/audio/buy-past.mp3"
+  },
+  {
+    "verb": "buy",
+    "form": "participle",
+    "source": "main",
+    "start": 204.14,
+    "end": 205.08,
+    "file": "assets/audio/buy-participle.mp3"
+  },
+  {
+    "verb": "fight",
+    "form": "first",
+    "source": "main",
+    "start": 208.04,
+    "end": 209.0,
+    "file": "assets/audio/fight-first.mp3"
+  },
+  {
+    "verb": "fight",
+    "form": "past",
+    "source": "main",
+    "start": 209.76,
+    "end": 210.5,
+    "file": "assets/audio/fight-past.mp3"
+  },
+  {
+    "verb": "fight",
+    "form": "participle",
+    "source": "main",
+    "start": 211.86,
+    "end": 212.6,
+    "file": "assets/audio/fight-participle.mp3"
+  },
+  {
+    "verb": "think",
+    "form": "first",
+    "source": "main",
+    "start": 215.16,
+    "end": 216.04,
+    "file": "assets/audio/think-first.mp3"
+  },
+  {
+    "verb": "think",
+    "form": "past",
+    "source": "main",
+    "start": 217.12,
+    "end": 217.86,
+    "file": "assets/audio/think-past.mp3"
+  },
+  {
+    "verb": "think",
+    "form": "participle",
+    "source": "main",
+    "start": 218.58,
+    "end": 219.3,
+    "file": "assets/audio/think-participle.mp3"
+  },
+  {
+    "verb": "catch",
+    "form": "first",
+    "source": "main",
+    "start": 222.18,
+    "end": 223.1,
+    "file": "assets/audio/catch-first.mp3"
+  },
+  {
+    "verb": "catch",
+    "form": "past",
+    "source": "main",
+    "start": 224.1,
+    "end": 224.98,
+    "file": "assets/audio/catch-past.mp3"
+  },
+  {
+    "verb": "catch",
+    "form": "participle",
+    "source": "main",
+    "start": 225.5,
+    "end": 226.36,
+    "file": "assets/audio/catch-participle.mp3"
+  },
+  {
+    "verb": "teach",
+    "form": "first",
+    "source": "main",
+    "start": 229.48,
+    "end": 230.38,
+    "file": "assets/audio/teach-first.mp3"
+  },
+  {
+    "verb": "teach",
+    "form": "past",
+    "source": "main",
+    "start": 231.42,
+    "end": 232.3,
+    "file": "assets/audio/teach-past.mp3"
+  },
+  {
+    "verb": "teach",
+    "form": "participle",
+    "source": "main",
+    "start": 233.02,
+    "end": 233.92,
+    "file": "assets/audio/teach-participle.mp3"
+  },
+  {
+    "verb": "dig",
+    "form": "first",
+    "source": "main",
+    "start": 236.74,
+    "end": 237.74,
+    "file": "assets/audio/dig-first.mp3"
+  },
+  {
+    "verb": "dig",
+    "form": "past",
+    "source": "main",
+    "start": 238.38,
+    "end": 239.36,
+    "file": "assets/audio/dig-past.mp3"
+  },
+  {
+    "verb": "dig",
+    "form": "participle",
+    "source": "main",
+    "start": 239.98,
+    "end": 240.96,
+    "file": "assets/audio/dig-participle.mp3"
+  },
+  {
+    "verb": "stick",
+    "form": "first",
+    "source": "main",
+    "start": 243.52,
+    "end": 244.44,
+    "file": "assets/audio/stick-first.mp3"
+  },
+  {
+    "verb": "stick",
+    "form": "past",
+    "source": "main",
+    "start": 245.18,
+    "end": 246.12,
+    "file": "assets/audio/stick-past.mp3"
+  },
+  {
+    "verb": "stick",
+    "form": "participle",
+    "source": "main",
+    "start": 246.9,
+    "end": 247.82,
+    "file": "assets/audio/stick-participle.mp3"
+  },
+  {
+    "verb": "sting",
+    "form": "first",
+    "source": "main",
+    "start": 250.52,
+    "end": 251.66,
+    "file": "assets/audio/sting-first.mp3"
+  },
+  {
+    "verb": "sting",
+    "form": "past",
+    "source": "main",
+    "start": 252.0,
+    "end": 253.02,
+    "file": "assets/audio/sting-past.mp3"
+  },
+  {
+    "verb": "sting",
+    "form": "participle",
+    "source": "main",
+    "start": 253.52,
+    "end": 254.5,
+    "file": "assets/audio/sting-participle.mp3"
+  },
+  {
+    "verb": "find",
+    "form": "first",
+    "source": "main",
+    "start": 258.12,
+    "end": 259.1,
+    "file": "assets/audio/find-first.mp3"
+  },
+  {
+    "verb": "find",
+    "form": "past",
+    "source": "main",
+    "start": 259.7,
+    "end": 260.58,
+    "file": "assets/audio/find-past.mp3"
+  },
+  {
+    "verb": "find",
+    "form": "participle",
+    "source": "main",
+    "start": 261.06,
+    "end": 261.88,
+    "file": "assets/audio/find-participle.mp3"
+  },
+  {
+    "verb": "stand",
+    "form": "first",
+    "source": "main",
+    "start": 264.48,
+    "end": 265.56,
+    "file": "assets/audio/stand-first.mp3"
+  },
+  {
+    "verb": "stand",
+    "form": "past",
+    "source": "main",
+    "start": 265.96,
+    "end": 266.9,
+    "file": "assets/audio/stand-past.mp3"
+  },
+  {
+    "verb": "stand",
+    "form": "participle",
+    "source": "main",
+    "start": 267.54,
+    "end": 268.52,
+    "file": "assets/audio/stand-participle.mp3"
+  },
+  {
+    "verb": "understand",
+    "form": "first",
+    "source": "main",
+    "start": 270.72,
+    "end": 272.08,
+    "file": "assets/audio/understand-first.mp3"
+  },
+  {
+    "verb": "understand",
+    "form": "past",
+    "source": "main",
+    "start": 272.8,
+    "end": 274.08,
+    "file": "assets/audio/understand-past.mp3"
+  },
+  {
+    "verb": "understand",
+    "form": "participle",
+    "source": "main",
+    "start": 274.82,
+    "end": 276.0,
+    "file": "assets/audio/understand-participle.mp3"
+  },
+  {
+    "verb": "sell",
+    "form": "first",
+    "source": "main",
+    "start": 278.8,
+    "end": 279.84,
+    "file": "assets/audio/sell-first.mp3"
+  },
+  {
+    "verb": "sell",
+    "form": "past",
+    "source": "main",
+    "start": 280.58,
+    "end": 281.66,
+    "file": "assets/audio/sell-past.mp3"
+  },
+  {
+    "verb": "sell",
+    "form": "participle",
+    "source": "main",
+    "start": 282.24,
+    "end": 283.22,
+    "file": "assets/audio/sell-participle.mp3"
+  },
+  {
+    "verb": "tell",
+    "form": "first",
+    "source": "main",
+    "start": 286.08,
+    "end": 286.96,
+    "file": "assets/audio/tell-first.mp3"
+  },
+  {
+    "verb": "tell",
+    "form": "past",
+    "source": "main",
+    "start": 287.8,
+    "end": 288.8,
+    "file": "assets/audio/tell-past.mp3"
+  },
+  {
+    "verb": "tell",
+    "form": "participle",
+    "source": "main",
+    "start": 289.34,
+    "end": 290.28,
+    "file": "assets/audio/tell-participle.mp3"
+  },
+  {
+    "verb": "feed",
+    "form": "first",
+    "source": "main",
+    "start": 293.38,
+    "end": 294.28,
+    "file": "assets/audio/feed-first.mp3"
+  },
+  {
+    "verb": "feed",
+    "form": "past",
+    "source": "main",
+    "start": 294.76,
+    "end": 295.64,
+    "file": "assets/audio/feed-past.mp3"
+  },
+  {
+    "verb": "feed",
+    "form": "participle",
+    "source": "main",
+    "start": 296.12,
+    "end": 297.02,
+    "file": "assets/audio/feed-participle.mp3"
+  },
+  {
+    "verb": "get",
+    "form": "first",
+    "source": "main",
+    "start": 299.34,
+    "end": 300.24,
+    "file": "assets/audio/get-first.mp3"
+  },
+  {
+    "verb": "get",
+    "form": "past",
+    "source": "main",
+    "start": 300.84,
+    "end": 301.74,
+    "file": "assets/audio/get-past.mp3"
+  },
+  {
+    "verb": "get",
+    "form": "participle",
+    "source": "main",
+    "start": 302.28,
+    "end": 303.14,
+    "file": "assets/audio/get-participle.mp3"
+  },
+  {
+    "verb": "hang",
+    "form": "first",
+    "source": "main",
+    "start": 305.9,
+    "end": 306.86,
+    "file": "assets/audio/hang-first.mp3"
+  },
+  {
+    "verb": "hang",
+    "form": "past",
+    "source": "main",
+    "start": 307.3,
+    "end": 308.24,
+    "file": "assets/audio/hang-past.mp3"
+  },
+  {
+    "verb": "hang",
+    "form": "participle",
+    "source": "main",
+    "start": 308.68,
+    "end": 309.56,
+    "file": "assets/audio/hang-participle.mp3"
+  },
+  {
+    "verb": "have",
+    "form": "first",
+    "source": "main",
+    "start": 312.08,
+    "end": 312.96,
+    "file": "assets/audio/have-first.mp3"
+  },
+  {
+    "verb": "have",
+    "form": "past",
+    "source": "main",
+    "start": 313.62,
+    "end": 314.52,
+    "file": "assets/audio/have-past.mp3"
+  },
+  {
+    "verb": "have",
+    "form": "participle",
+    "source": "main",
+    "start": 315.04,
+    "end": 315.96,
+    "file": "assets/audio/have-participle.mp3"
+  },
+  {
+    "verb": "hear",
+    "form": "first",
+    "source": "main",
+    "start": 318.64,
+    "end": 319.6,
+    "file": "assets/audio/hear-first.mp3"
+  },
+  {
+    "verb": "hear",
+    "form": "past",
+    "source": "main",
+    "start": 320.04,
+    "end": 321.0,
+    "file": "assets/audio/hear-past.mp3"
+  },
+  {
+    "verb": "hear",
+    "form": "participle",
+    "source": "main",
+    "start": 321.66,
+    "end": 322.6,
+    "file": "assets/audio/hear-participle.mp3"
+  },
+  {
+    "verb": "hold",
+    "form": "first",
+    "source": "main",
+    "start": 324.9,
+    "end": 325.84,
+    "file": "assets/audio/hold-first.mp3"
+  },
+  {
+    "verb": "hold",
+    "form": "past",
+    "source": "main",
+    "start": 326.44,
+    "end": 327.38,
+    "file": "assets/audio/hold-past.mp3"
+  },
+  {
+    "verb": "hold",
+    "form": "participle",
+    "source": "main",
+    "start": 327.74,
+    "end": 328.68,
+    "file": "assets/audio/hold-participle.mp3"
+  },
+  {
+    "verb": "lead",
+    "form": "first",
+    "source": "main",
+    "start": 330.76,
+    "end": 331.8,
+    "file": "assets/audio/lead-first.mp3"
+  },
+  {
+    "verb": "lead",
+    "form": "past",
+    "source": "main",
+    "start": 332.14,
+    "end": 333.14,
+    "file": "assets/audio/lead-past.mp3"
+  },
+  {
+    "verb": "lead",
+    "form": "participle",
+    "source": "main",
+    "start": 333.5,
+    "end": 334.48,
+    "file": "assets/audio/lead-participle.mp3"
+  },
+  {
+    "verb": "light",
+    "form": "first",
+    "source": "main",
+    "start": 336.98,
+    "end": 337.9,
+    "file": "assets/audio/light-first.mp3"
+  },
+  {
+    "verb": "light",
+    "form": "past",
+    "source": "main",
+    "start": 338.48,
+    "end": 339.26,
+    "file": "assets/audio/light-past.mp3"
+  },
+  {
+    "verb": "light",
+    "form": "participle",
+    "source": "main",
+    "start": 339.78,
+    "end": 340.62,
+    "file": "assets/audio/light-participle.mp3"
+  },
+  {
+    "verb": "lose",
+    "form": "first",
+    "source": "main",
+    "start": 343.2,
+    "end": 344.34,
+    "file": "assets/audio/lose-first.mp3"
+  },
+  {
+    "verb": "lose",
+    "form": "past",
+    "source": "main",
+    "start": 344.66,
+    "end": 345.64,
+    "file": "assets/audio/lose-past.mp3"
+  },
+  {
+    "verb": "lose",
+    "form": "participle",
+    "source": "main",
+    "start": 346.1,
+    "end": 347.08,
+    "file": "assets/audio/lose-participle.mp3"
+  },
+  {
+    "verb": "make",
+    "form": "first",
+    "source": "main",
+    "start": 349.62,
+    "end": 350.54,
+    "file": "assets/audio/make-first.mp3"
+  },
+  {
+    "verb": "make",
+    "form": "past",
+    "source": "main",
+    "start": 351.2,
+    "end": 352.26,
+    "file": "assets/audio/make-past.mp3"
+  },
+  {
+    "verb": "make",
+    "form": "participle",
+    "source": "main",
+    "start": 352.72,
+    "end": 353.74,
+    "file": "assets/audio/make-participle.mp3"
+  },
+  {
+    "verb": "meet",
+    "form": "first",
+    "source": "main",
+    "start": 356.42,
+    "end": 357.4,
+    "file": "assets/audio/meet-first.mp3"
+  },
+  {
+    "verb": "meet",
+    "form": "past",
+    "source": "main",
+    "start": 358.26,
+    "end": 359.2,
+    "file": "assets/audio/meet-past.mp3"
+  },
+  {
+    "verb": "meet",
+    "form": "participle",
+    "source": "main",
+    "start": 360.16,
+    "end": 361.12,
+    "file": "assets/audio/meet-participle.mp3"
+  },
+  {
+    "verb": "pay",
+    "form": "first",
+    "source": "main",
+    "start": 364.32,
+    "end": 365.32,
+    "file": "assets/audio/pay-first.mp3"
+  },
+  {
+    "verb": "pay",
+    "form": "past",
+    "source": "main",
+    "start": 366.3,
+    "end": 367.42,
+    "file": "assets/audio/pay-past.mp3"
+  },
+  {
+    "verb": "pay",
+    "form": "participle",
+    "source": "main",
+    "start": 368.4,
+    "end": 369.44,
+    "file": "assets/audio/pay-participle.mp3"
+  },
+  {
+    "verb": "say",
+    "form": "first",
+    "source": "main",
+    "start": 372.68,
+    "end": 373.84,
+    "file": "assets/audio/say-first.mp3"
+  },
+  {
+    "verb": "say",
+    "form": "past",
+    "source": "main",
+    "start": 374.58,
+    "end": 375.68,
+    "file": "assets/audio/say-past.mp3"
+  },
+  {
+    "verb": "say",
+    "form": "participle",
+    "source": "main",
+    "start": 376.2,
+    "end": 377.26,
+    "file": "assets/audio/say-participle.mp3"
+  },
+  {
+    "verb": "shine",
+    "form": "first",
+    "source": "main",
+    "start": 380.38,
+    "end": 381.52,
+    "file": "assets/audio/shine-first.mp3"
+  },
+  {
+    "verb": "shine",
+    "form": "past",
+    "source": "main",
+    "start": 382.12,
+    "end": 383.14,
+    "file": "assets/audio/shine-past.mp3"
+  },
+  {
+    "verb": "shine",
+    "form": "participle",
+    "source": "main",
+    "start": 383.72,
+    "end": 384.68,
+    "file": "assets/audio/shine-participle.mp3"
+  },
+  {
+    "verb": "shoot",
+    "form": "first",
+    "source": "main",
+    "start": 387.52,
+    "end": 388.52,
+    "file": "assets/audio/shoot-first.mp3"
+  },
+  {
+    "verb": "shoot",
+    "form": "past",
+    "source": "main",
+    "start": 389.34,
+    "end": 390.26,
+    "file": "assets/audio/shoot-past.mp3"
+  },
+  {
+    "verb": "shoot",
+    "form": "participle",
+    "source": "main",
+    "start": 390.98,
+    "end": 391.92,
+    "file": "assets/audio/shoot-participle.mp3"
+  },
+  {
+    "verb": "sit",
+    "form": "first",
+    "source": "main",
+    "start": 394.7,
+    "end": 395.62,
+    "file": "assets/audio/sit-first.mp3"
+  },
+  {
+    "verb": "sit",
+    "form": "past",
+    "source": "main",
+    "start": 396.18,
+    "end": 397.04,
+    "file": "assets/audio/sit-past.mp3"
+  },
+  {
+    "verb": "sit",
+    "form": "participle",
+    "source": "main",
+    "start": 397.64,
+    "end": 398.56,
+    "file": "assets/audio/sit-participle.mp3"
+  },
+  {
+    "verb": "win",
+    "form": "first",
+    "source": "main",
+    "start": 401.52,
+    "end": 402.6,
+    "file": "assets/audio/win-first.mp3"
+  },
+  {
+    "verb": "win",
+    "form": "past",
+    "source": "main",
+    "start": 402.98,
+    "end": 403.98,
+    "file": "assets/audio/win-past.mp3"
+  },
+  {
+    "verb": "win",
+    "form": "participle",
+    "source": "main",
+    "start": 404.4,
+    "end": 405.3,
+    "file": "assets/audio/win-participle.mp3"
+  },
+  {
+    "verb": "become",
+    "form": "first",
+    "source": "main",
+    "start": 408.02,
+    "end": 409.14,
+    "file": "assets/audio/become-first.mp3"
+  },
+  {
+    "verb": "become",
+    "form": "past",
+    "source": "main",
+    "start": 409.62,
+    "end": 410.98,
+    "file": "assets/audio/become-past.mp3"
+  },
+  {
+    "verb": "become",
+    "form": "participle",
+    "source": "main",
+    "start": 411.64,
+    "end": 412.6,
+    "file": "assets/audio/become-participle.mp3"
+  },
+  {
+    "verb": "come",
+    "form": "first",
+    "source": "main",
+    "start": 415.26,
+    "end": 416.18,
+    "file": "assets/audio/come-first.mp3"
+  },
+  {
+    "verb": "come",
+    "form": "past",
+    "source": "main",
+    "start": 417.06,
+    "end": 417.94,
+    "file": "assets/audio/come-past.mp3"
+  },
+  {
+    "verb": "come",
+    "form": "participle",
+    "source": "main",
+    "start": 418.7,
+    "end": 419.5,
+    "file": "assets/audio/come-participle.mp3"
+  },
+  {
+    "verb": "run",
+    "form": "first",
+    "source": "main",
+    "start": 421.8,
+    "end": 422.78,
+    "file": "assets/audio/run-first.mp3"
+  },
+  {
+    "verb": "run",
+    "form": "past",
+    "source": "main",
+    "start": 423.3,
+    "end": 424.3,
+    "file": "assets/audio/run-past.mp3"
+  },
+  {
+    "verb": "run",
+    "form": "participle",
+    "source": "main",
+    "start": 424.72,
+    "end": 425.62,
+    "file": "assets/audio/run-participle.mp3"
+  },
+  {
+    "verb": "begin",
+    "form": "first",
+    "source": "main",
+    "start": 428.44,
+    "end": 429.6,
+    "file": "assets/audio/begin-first.mp3"
+  },
+  {
+    "verb": "begin",
+    "form": "past",
+    "source": "main",
+    "start": 430.0,
+    "end": 431.16,
+    "file": "assets/audio/begin-past.mp3"
+  },
+  {
+    "verb": "begin",
+    "form": "participle",
+    "source": "main",
+    "start": 431.64,
+    "end": 432.64,
+    "file": "assets/audio/begin-participle.mp3"
+  },
+  {
+    "verb": "drink",
+    "form": "first",
+    "source": "main",
+    "start": 435.06,
+    "end": 436.02,
+    "file": "assets/audio/drink-first.mp3"
+  },
+  {
+    "verb": "drink",
+    "form": "past",
+    "source": "main",
+    "start": 436.64,
+    "end": 437.64,
+    "file": "assets/audio/drink-past.mp3"
+  },
+  {
+    "verb": "drink",
+    "form": "participle",
+    "source": "main",
+    "start": 438.4,
+    "end": 439.34,
+    "file": "assets/audio/drink-participle.mp3"
+  },
+  {
+    "verb": "ring",
+    "form": "first",
+    "source": "main",
+    "start": 441.88,
+    "end": 442.94,
+    "file": "assets/audio/ring-first.mp3"
+  },
+  {
+    "verb": "ring",
+    "form": "past",
+    "source": "main",
+    "start": 443.36,
+    "end": 444.36,
+    "file": "assets/audio/ring-past.mp3"
+  },
+  {
+    "verb": "ring",
+    "form": "participle",
+    "source": "main",
+    "start": 444.84,
+    "end": 445.72,
+    "file": "assets/audio/ring-participle.mp3"
+  },
+  {
+    "verb": "sing",
+    "form": "first",
+    "source": "main",
+    "start": 448.48,
+    "end": 449.48,
+    "file": "assets/audio/sing-first.mp3"
+  },
+  {
+    "verb": "sing",
+    "form": "past",
+    "source": "main",
+    "start": 450.06,
+    "end": 451.02,
+    "file": "assets/audio/sing-past.mp3"
+  },
+  {
+    "verb": "sing",
+    "form": "participle",
+    "source": "main",
+    "start": 451.66,
+    "end": 452.6,
+    "file": "assets/audio/sing-participle.mp3"
+  },
+  {
+    "verb": "swim",
+    "form": "first",
+    "source": "main",
+    "start": 455.22,
+    "end": 456.3,
+    "file": "assets/audio/swim-first.mp3"
+  },
+  {
+    "verb": "swim",
+    "form": "past",
+    "source": "main",
+    "start": 456.8,
+    "end": 457.88,
+    "file": "assets/audio/swim-past.mp3"
+  },
+  {
+    "verb": "swim",
+    "form": "participle",
+    "source": "main",
+    "start": 458.36,
+    "end": 459.38,
+    "file": "assets/audio/swim-participle.mp3"
+  },
+  {
+    "verb": "blow",
+    "form": "first",
+    "source": "main",
+    "start": 462.66,
+    "end": 463.74,
+    "file": "assets/audio/blow-first.mp3"
+  },
+  {
+    "verb": "blow",
+    "form": "past",
+    "source": "main",
+    "start": 464.46,
+    "end": 465.46,
+    "file": "assets/audio/blow-past.mp3"
+  },
+  {
+    "verb": "blow",
+    "form": "participle",
+    "source": "main",
+    "start": 466.12,
+    "end": 467.22,
+    "file": "assets/audio/blow-participle.mp3"
+  },
+  {
+    "verb": "grow",
+    "form": "first",
+    "source": "main",
+    "start": 470.32,
+    "end": 471.38,
+    "file": "assets/audio/grow-first.mp3"
+  },
+  {
+    "verb": "grow",
+    "form": "past",
+    "source": "main",
+    "start": 471.92,
+    "end": 472.92,
+    "file": "assets/audio/grow-past.mp3"
+  },
+  {
+    "verb": "grow",
+    "form": "participle",
+    "source": "main",
+    "start": 473.44,
+    "end": 474.5,
+    "file": "assets/audio/grow-participle.mp3"
+  },
+  {
+    "verb": "know",
+    "form": "first",
+    "source": "main",
+    "start": 476.62,
+    "end": 477.74,
+    "file": "assets/audio/know-first.mp3"
+  },
+  {
+    "verb": "know",
+    "form": "past",
+    "source": "main",
+    "start": 477.94,
+    "end": 479.14,
+    "file": "assets/audio/know-past.mp3"
+  },
+  {
+    "verb": "know",
+    "form": "participle",
+    "source": "main",
+    "start": 479.28,
+    "end": 480.42,
+    "file": "assets/audio/know-participle.mp3"
+  },
+  {
+    "verb": "throw",
+    "form": "first",
+    "source": "main",
+    "start": 482.86,
+    "end": 483.8,
+    "file": "assets/audio/throw-first.mp3"
+  },
+  {
+    "verb": "throw",
+    "form": "past",
+    "source": "main",
+    "start": 484.08,
+    "end": 484.96,
+    "file": "assets/audio/throw-past.mp3"
+  },
+  {
+    "verb": "throw",
+    "form": "participle",
+    "source": "main",
+    "start": 485.24,
+    "end": 486.28,
+    "file": "assets/audio/throw-participle.mp3"
+  },
+  {
+    "verb": "fly",
+    "form": "first",
+    "source": "main",
+    "start": 488.5,
+    "end": 489.56,
+    "file": "assets/audio/fly-first.mp3"
+  },
+  {
+    "verb": "fly",
+    "form": "past",
+    "source": "main",
+    "start": 490.04,
+    "end": 491.08,
+    "file": "assets/audio/fly-past.mp3"
+  },
+  {
+    "verb": "fly",
+    "form": "participle",
+    "source": "main",
+    "start": 491.42,
+    "end": 492.54,
+    "file": "assets/audio/fly-participle.mp3"
+  },
+  {
+    "verb": "draw",
+    "form": "first",
+    "source": "main",
+    "start": 494.76,
+    "end": 495.84,
+    "file": "assets/audio/draw-first.mp3"
+  },
+  {
+    "verb": "draw",
+    "form": "past",
+    "source": "main",
+    "start": 496.4,
+    "end": 497.38,
+    "file": "assets/audio/draw-past.mp3"
+  },
+  {
+    "verb": "draw",
+    "form": "participle",
+    "source": "main",
+    "start": 497.96,
+    "end": 498.98,
+    "file": "assets/audio/draw-participle.mp3"
+  },
+  {
+    "verb": "break",
+    "form": "first",
+    "source": "main",
+    "start": 502.12,
+    "end": 503.1,
+    "file": "assets/audio/break-first.mp3"
+  },
+  {
+    "verb": "break",
+    "form": "past",
+    "source": "main",
+    "start": 503.88,
+    "end": 504.82,
+    "file": "assets/audio/break-past.mp3"
+  },
+  {
+    "verb": "break",
+    "form": "participle",
+    "source": "main",
+    "start": 505.4,
+    "end": 506.6,
+    "file": "assets/audio/break-participle.mp3"
+  },
+  {
+    "verb": "choose",
+    "form": "first",
+    "source": "main",
+    "start": 509.52,
+    "end": 510.66,
+    "file": "assets/audio/choose-first.mp3"
+  },
+  {
+    "verb": "choose",
+    "form": "past",
+    "source": "main",
+    "start": 511.12,
+    "end": 512.3,
+    "file": "assets/audio/choose-past.mp3"
+  },
+  {
+    "verb": "choose",
+    "form": "participle",
+    "source": "main",
+    "start": 512.92,
+    "end": 514.08,
+    "file": "assets/audio/choose-participle.mp3"
+  },
+  {
+    "verb": "freeze",
+    "form": "first",
+    "source": "main",
+    "start": 516.76,
+    "end": 517.88,
+    "file": "assets/audio/freeze-first.mp3"
+  },
+  {
+    "verb": "freeze",
+    "form": "past",
+    "source": "main",
+    "start": 518.32,
+    "end": 519.48,
+    "file": "assets/audio/freeze-past.mp3"
+  },
+  {
+    "verb": "freeze",
+    "form": "participle",
+    "source": "main",
+    "start": 520.08,
+    "end": 521.18,
+    "file": "assets/audio/freeze-participle.mp3"
+  },
+  {
+    "verb": "speak",
+    "form": "first",
+    "source": "main",
+    "start": 524.08,
+    "end": 525.16,
+    "file": "assets/audio/speak-first.mp3"
+  },
+  {
+    "verb": "speak",
+    "form": "past",
+    "source": "main",
+    "start": 525.9,
+    "end": 526.98,
+    "file": "assets/audio/speak-past.mp3"
+  },
+  {
+    "verb": "speak",
+    "form": "participle",
+    "source": "main",
+    "start": 528.08,
+    "end": 529.32,
+    "file": "assets/audio/speak-participle.mp3"
+  },
+  {
+    "verb": "steal",
+    "form": "first",
+    "source": "main",
+    "start": 532.24,
+    "end": 533.42,
+    "file": "assets/audio/steal-first.mp3"
+  },
+  {
+    "verb": "steal",
+    "form": "past",
+    "source": "main",
+    "start": 534.14,
+    "end": 535.32,
+    "file": "assets/audio/steal-past.mp3"
+  },
+  {
+    "verb": "steal",
+    "form": "participle",
+    "source": "main",
+    "start": 536.14,
+    "end": 537.3,
+    "file": "assets/audio/steal-participle.mp3"
+  },
+  {
+    "verb": "wake",
+    "form": "first",
+    "source": "main",
+    "start": 540.16,
+    "end": 541.14,
+    "file": "assets/audio/wake-first.mp3"
+  },
+  {
+    "verb": "wake",
+    "form": "past",
+    "source": "main",
+    "start": 542.12,
+    "end": 543.08,
+    "file": "assets/audio/wake-past.mp3"
+  },
+  {
+    "verb": "wake",
+    "form": "participle",
+    "source": "main",
+    "start": 544.48,
+    "end": 545.52,
+    "file": "assets/audio/wake-participle.mp3"
+  },
+  {
+    "verb": "drive",
+    "form": "first",
+    "source": "main",
+    "start": 548.72,
+    "end": 549.64,
+    "file": "assets/audio/drive-first.mp3"
+  },
+  {
+    "verb": "drive",
+    "form": "past",
+    "source": "main",
+    "start": 550.38,
+    "end": 551.44,
+    "file": "assets/audio/drive-past.mp3"
+  },
+  {
+    "verb": "drive",
+    "form": "participle",
+    "source": "main",
+    "start": 552.16,
+    "end": 553.14,
+    "file": "assets/audio/drive-participle.mp3"
+  },
+  {
+    "verb": "ride",
+    "form": "first",
+    "source": "main",
+    "start": 555.94,
+    "end": 557.02,
+    "file": "assets/audio/ride-first.mp3"
+  },
+  {
+    "verb": "ride",
+    "form": "past",
+    "source": "main",
+    "start": 557.56,
+    "end": 558.62,
+    "file": "assets/audio/ride-past.mp3"
+  },
+  {
+    "verb": "ride",
+    "form": "participle",
+    "source": "main",
+    "start": 559.26,
+    "end": 560.28,
+    "file": "assets/audio/ride-participle.mp3"
+  },
+  {
+    "verb": "rise",
+    "form": "first",
+    "source": "main",
+    "start": 563.2,
+    "end": 564.4,
+    "file": "assets/audio/rise-first.mp3"
+  },
+  {
+    "verb": "rise",
+    "form": "past",
+    "source": "main",
+    "start": 565.02,
+    "end": 566.2,
+    "file": "assets/audio/rise-past.mp3"
+  },
+  {
+    "verb": "rise",
+    "form": "participle",
+    "source": "main",
+    "start": 566.88,
+    "end": 567.94,
+    "file": "assets/audio/rise-participle.mp3"
+  },
+  {
+    "verb": "write",
+    "form": "first",
+    "source": "main",
+    "start": 570.94,
+    "end": 571.88,
+    "file": "assets/audio/write-first.mp3"
+  },
+  {
+    "verb": "write",
+    "form": "past",
+    "source": "main",
+    "start": 572.96,
+    "end": 573.86,
+    "file": "assets/audio/write-past.mp3"
+  },
+  {
+    "verb": "write",
+    "form": "participle",
+    "source": "main",
+    "start": 574.76,
+    "end": 575.7,
+    "file": "assets/audio/write-participle.mp3"
+  },
+  {
+    "verb": "give",
+    "form": "first",
+    "source": "main",
+    "start": 578.76,
+    "end": 579.96,
+    "file": "assets/audio/give-first.mp3"
+  },
+  {
+    "verb": "give",
+    "form": "past",
+    "source": "main",
+    "start": 580.54,
+    "end": 581.74,
+    "file": "assets/audio/give-past.mp3"
+  },
+  {
+    "verb": "give",
+    "form": "participle",
+    "source": "main",
+    "start": 582.3,
+    "end": 583.38,
+    "file": "assets/audio/give-participle.mp3"
+  },
+  {
+    "verb": "forgive",
+    "form": "first",
+    "source": "main",
+    "start": 586.92,
+    "end": 588.16,
+    "file": "assets/audio/forgive-first.mp3"
+  },
+  {
+    "verb": "forgive",
+    "form": "past",
+    "source": "main",
+    "start": 588.56,
+    "end": 589.74,
+    "file": "assets/audio/forgive-past.mp3"
+  },
+  {
+    "verb": "forgive",
+    "form": "participle",
+    "source": "main",
+    "start": 590.24,
+    "end": 591.22,
+    "file": "assets/audio/forgive-participle.mp3"
+  },
+  {
+    "verb": "take",
+    "form": "first",
+    "source": "main",
+    "start": 594.56,
+    "end": 595.38,
+    "file": "assets/audio/take-first.mp3"
+  },
+  {
+    "verb": "take",
+    "form": "past",
+    "source": "main",
+    "start": 596.16,
+    "end": 596.96,
+    "file": "assets/audio/take-past.mp3"
+  },
+  {
+    "verb": "take",
+    "form": "participle",
+    "source": "main",
+    "start": 597.86,
+    "end": 598.8,
+    "file": "assets/audio/take-participle.mp3"
+  },
+  {
+    "verb": "shake",
+    "form": "first",
+    "source": "main",
+    "start": 601.78,
+    "end": 602.78,
+    "file": "assets/audio/shake-first.mp3"
+  },
+  {
+    "verb": "shake",
+    "form": "past",
+    "source": "main",
+    "start": 603.62,
+    "end": 604.54,
+    "file": "assets/audio/shake-past.mp3"
+  },
+  {
+    "verb": "shake",
+    "form": "participle",
+    "source": "main",
+    "start": 605.64,
+    "end": 606.68,
+    "file": "assets/audio/shake-participle.mp3"
+  },
+  {
+    "verb": "bear",
+    "form": "first",
+    "source": "main",
+    "start": 609.98,
+    "end": 611.18,
+    "file": "assets/audio/bear-first.mp3"
+  },
+  {
+    "verb": "bear",
+    "form": "past",
+    "source": "main",
+    "start": 611.64,
+    "end": 612.68,
+    "file": "assets/audio/bear-past.mp3"
+  },
+  {
+    "verb": "bear",
+    "form": "participle",
+    "source": "main",
+    "start": 613.36,
+    "end": 614.44,
+    "file": "assets/audio/bear-participle.mp3"
+  },
+  {
+    "verb": "swear",
+    "form": "first",
+    "source": "main",
+    "start": 618.06,
+    "end": 619.3,
+    "file": "assets/audio/swear-first.mp3"
+  },
+  {
+    "verb": "swear",
+    "form": "past",
+    "source": "main",
+    "start": 619.92,
+    "end": 621.02,
+    "file": "assets/audio/swear-past.mp3"
+  },
+  {
+    "verb": "swear",
+    "form": "participle",
+    "source": "main",
+    "start": 621.52,
+    "end": 622.62,
+    "file": "assets/audio/swear-participle.mp3"
+  },
+  {
+    "verb": "tear",
+    "form": "first",
+    "source": "main",
+    "start": 626.36,
+    "end": 627.32,
+    "file": "assets/audio/tear-first.mp3"
+  },
+  {
+    "verb": "tear",
+    "form": "past",
+    "source": "main",
+    "start": 628.12,
+    "end": 629.06,
+    "file": "assets/audio/tear-past.mp3"
+  },
+  {
+    "verb": "tear",
+    "form": "participle",
+    "source": "main",
+    "start": 629.88,
+    "end": 630.78,
+    "file": "assets/audio/tear-participle.mp3"
+  },
+  {
+    "verb": "wear",
+    "form": "first",
+    "source": "main",
+    "start": 633.84,
+    "end": 634.98,
+    "file": "assets/audio/wear-first.mp3"
+  },
+  {
+    "verb": "wear",
+    "form": "past",
+    "source": "main",
+    "start": 635.38,
+    "end": 636.42,
+    "file": "assets/audio/wear-past.mp3"
+  },
+  {
+    "verb": "wear",
+    "form": "participle",
+    "source": "main",
+    "start": 637.08,
+    "end": 638.1,
+    "file": "assets/audio/wear-participle.mp3"
+  },
+  {
+    "verb": "bite",
+    "form": "first",
+    "source": "main",
+    "start": 641.56,
+    "end": 642.46,
+    "file": "assets/audio/bite-first.mp3"
+  },
+  {
+    "verb": "bite",
+    "form": "past",
+    "source": "main",
+    "start": 643.02,
+    "end": 643.9,
+    "file": "assets/audio/bite-past.mp3"
+  },
+  {
+    "verb": "bite",
+    "form": "participle",
+    "source": "main",
+    "start": 644.52,
+    "end": 645.54,
+    "file": "assets/audio/bite-participle.mp3"
+  },
+  {
+    "verb": "hide",
+    "form": "first",
+    "source": "main",
+    "start": 647.92,
+    "end": 648.98,
+    "file": "assets/audio/hide-first.mp3"
+  },
+  {
+    "verb": "hide",
+    "form": "past",
+    "source": "main",
+    "start": 649.32,
+    "end": 650.18,
+    "file": "assets/audio/hide-past.mp3"
+  },
+  {
+    "verb": "hide",
+    "form": "participle",
+    "source": "main",
+    "start": 650.7,
+    "end": 651.66,
+    "file": "assets/audio/hide-participle.mp3"
+  },
+  {
+    "verb": "forbid",
+    "form": "first",
+    "source": "main",
+    "start": 654.02,
+    "end": 655.16,
+    "file": "assets/audio/forbid-first.mp3"
+  },
+  {
+    "verb": "forbid",
+    "form": "past",
+    "source": "main",
+    "start": 655.42,
+    "end": 656.54,
+    "file": "assets/audio/forbid-past.mp3"
+  },
+  {
+    "verb": "forbid",
+    "form": "participle",
+    "source": "main",
+    "start": 656.7,
+    "end": 657.72,
+    "file": "assets/audio/forbid-participle.mp3"
+  },
+  {
+    "verb": "eat",
+    "form": "first",
+    "source": "main",
+    "start": 660.2,
+    "end": 661.02,
+    "file": "assets/audio/eat-first.mp3"
+  },
+  {
+    "verb": "eat",
+    "form": "past",
+    "source": "main",
+    "start": 661.58,
+    "end": 662.4,
+    "file": "assets/audio/eat-past.mp3"
+  },
+  {
+    "verb": "eat",
+    "form": "participle",
+    "source": "main",
+    "start": 662.94,
+    "end": 663.9,
+    "file": "assets/audio/eat-participle.mp3"
+  },
+  {
+    "verb": "fall",
+    "form": "first",
+    "source": "main",
+    "start": 666.62,
+    "end": 667.54,
+    "file": "assets/audio/fall-first.mp3"
+  },
+  {
+    "verb": "fall",
+    "form": "past",
+    "source": "main",
+    "start": 668.16,
+    "end": 669.16,
+    "file": "assets/audio/fall-past.mp3"
+  },
+  {
+    "verb": "fall",
+    "form": "participle",
+    "source": "main",
+    "start": 669.72,
+    "end": 670.7,
+    "file": "assets/audio/fall-participle.mp3"
+  },
+  {
+    "verb": "forget",
+    "form": "first",
+    "source": "main",
+    "start": 673.4,
+    "end": 674.4,
+    "file": "assets/audio/forget-first.mp3"
+  },
+  {
+    "verb": "forget",
+    "form": "past",
+    "source": "main",
+    "start": 675.12,
+    "end": 676.08,
+    "file": "assets/audio/forget-past.mp3"
+  },
+  {
+    "verb": "forget",
+    "form": "participle",
+    "source": "main",
+    "start": 676.58,
+    "end": 677.62,
+    "file": "assets/audio/forget-participle.mp3"
+  },
+  {
+    "verb": "see",
+    "form": "first",
+    "source": "main",
+    "start": 680.66,
+    "end": 681.8,
+    "file": "assets/audio/see-first.mp3"
+  },
+  {
+    "verb": "see",
+    "form": "past",
+    "source": "main",
+    "start": 682.3,
+    "end": 683.4,
+    "file": "assets/audio/see-past.mp3"
+  },
+  {
+    "verb": "see",
+    "form": "participle",
+    "source": "main",
+    "start": 683.92,
+    "end": 684.88,
+    "file": "assets/audio/see-participle.mp3"
+  },
+  {
+    "verb": "show",
+    "form": "first",
+    "source": "main",
+    "start": 688.46,
+    "end": 689.52,
+    "file": "assets/audio/show-first.mp3"
+  },
+  {
+    "verb": "show",
+    "form": "past",
+    "source": "main",
+    "start": 690.02,
+    "end": 691.14,
+    "file": "assets/audio/show-past.mp3"
+  },
+  {
+    "verb": "show",
+    "form": "participle",
+    "source": "main",
+    "start": 691.88,
+    "end": 692.92,
+    "file": "assets/audio/show-participle.mp3"
+  },
+  {
+    "verb": "sew",
+    "form": "first",
+    "source": "sew",
+    "start": 2.74,
+    "end": 3.66,
+    "file": "assets/audio/sew-first.mp3"
+  },
+  {
+    "verb": "sew",
+    "form": "past",
+    "source": "sew",
+    "start": 5.44,
+    "end": 6.52,
+    "file": "assets/audio/sew-past.mp3"
+  },
+  {
+    "verb": "sew",
+    "form": "participle",
+    "source": "sew",
+    "start": 7.94,
+    "end": 8.9,
+    "file": "assets/audio/sew-participle.mp3"
+  },
+  {
+    "verb": "be",
+    "form": "first",
+    "source": "main",
+    "start": 702.46,
+    "end": 703.6,
+    "file": "assets/audio/be-first.mp3"
+  },
+  {
+    "verb": "be",
+    "form": "past",
+    "source": "main",
+    "start": 704.06,
+    "end": 706.64,
+    "file": "assets/audio/be-past.mp3"
+  },
+  {
+    "verb": "be",
+    "form": "participle",
+    "source": "main",
+    "start": 707.36,
+    "end": 708.32,
+    "file": "assets/audio/be-participle.mp3"
+  },
+  {
+    "verb": "do",
+    "form": "first",
+    "source": "main",
+    "start": 711.32,
+    "end": 712.44,
+    "file": "assets/audio/do-first.mp3"
+  },
+  {
+    "verb": "do",
+    "form": "past",
+    "source": "main",
+    "start": 713.24,
+    "end": 714.4,
+    "file": "assets/audio/do-past.mp3"
+  },
+  {
+    "verb": "do",
+    "form": "participle",
+    "source": "main",
+    "start": 715.02,
+    "end": 715.98,
+    "file": "assets/audio/do-participle.mp3"
+  },
+  {
+    "verb": "go",
+    "form": "first",
+    "source": "main",
+    "start": 718.84,
+    "end": 720.0,
+    "file": "assets/audio/go-first.mp3"
+  },
+  {
+    "verb": "go",
+    "form": "past",
+    "source": "main",
+    "start": 720.92,
+    "end": 721.8,
+    "file": "assets/audio/go-past.mp3"
+  },
+  {
+    "verb": "go",
+    "form": "participle",
+    "source": "main",
+    "start": 723.12,
+    "end": 723.96,
+    "file": "assets/audio/go-participle.mp3"
+  }
+]
