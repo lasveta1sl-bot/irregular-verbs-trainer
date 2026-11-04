@@ -123,6 +123,21 @@
     }));
     $('family').replaceChildren(...families.filter(f => f.group === group).map(f => { const o = document.createElement('option'); o.value = f.id; o.textContent = f.name; return o; }));
     $('family').value = family;
+    $('family-current').textContent = families.find(f => f.id === family).name;
+    $('family-picker').open = false;
+    $('family-options').replaceChildren(...families.filter(f => f.group === group).map(f => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'family-option';
+      button.textContent = f.name;
+      button.setAttribute('aria-pressed', String(f.id === family));
+      button.addEventListener('click', () => {
+        $('family').value = f.id;
+        $('family').dispatchEvent(new Event('change'));
+        $('family-picker').querySelector('summary').focus();
+      });
+      return button;
+    }));
     const f = families.find(f => f.id === family);
     $('family-title').textContent = f.name;
     $('pattern').textContent = f.pattern;
@@ -138,6 +153,7 @@
     status('Нажми на карточку, чтобы перевернуть');
   }
   $('family').addEventListener('change', e => { stopAudio(); family = e.target.value; flipped.clear(); order = []; render(); persist(); });
+  $('family-picker').addEventListener('keydown', e => { if (e.key === 'Escape') { $('family-picker').open = false; $('family-picker').querySelector('summary').focus(); } });
   $('reset').addEventListener('click', () => { stopAudio(); flipped.clear(); renderCards(); status('Все карточки лицом вверх'); });
   $('shuffle').addEventListener('click', () => {
     stopAudio(); order = currentVerbs().map(v => v.id);
