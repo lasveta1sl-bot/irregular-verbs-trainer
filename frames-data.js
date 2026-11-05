@@ -97,7 +97,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "burst"
         }
-      ]
+      ],
+      "audio": "sentence-burst"
     },
     {
       "id": "fall",
@@ -114,7 +115,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "fall"
         }
-      ]
+      ],
+      "audio": "sentence-fall"
     },
     {
       "id": "fly",
@@ -131,7 +133,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "fly"
         }
-      ]
+      ],
+      "audio": "sentence-fly"
     },
     {
       "id": "grow",
@@ -148,7 +151,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "grow"
         }
-      ]
+      ],
+      "audio": "sentence-grow"
     },
     {
       "id": "hurt",
@@ -165,7 +169,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "hurt"
         }
-      ]
+      ],
+      "audio": "sentence-hurt"
     },
     {
       "id": "ring",
@@ -182,7 +187,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "ring"
         }
-      ]
+      ],
+      "audio": "sentence-ring"
     },
     {
       "id": "rise",
@@ -199,7 +205,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "rise"
         }
-      ]
+      ],
+      "audio": "sentence-rise"
     },
     {
       "id": "run",
@@ -216,7 +223,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮ?",
           "text": "run"
         }
-      ]
+      ],
+      "audio": "sentence-run"
     },
     {
       "id": "shine",
@@ -233,7 +241,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮТ?",
           "text": "shine"
         }
-      ]
+      ],
+      "audio": "sentence-shine"
     },
     {
       "id": "sleep",
@@ -250,7 +259,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮ?",
           "text": "sleep"
         }
-      ]
+      ],
+      "audio": "sentence-sleep"
     },
     {
       "id": "stand",
@@ -267,7 +277,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮ?",
           "text": "stand"
         }
-      ]
+      ],
+      "audio": "sentence-stand"
     },
     {
       "id": "swim",
@@ -284,7 +295,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮ?",
           "text": "swim"
         }
-      ]
+      ],
+      "audio": "sentence-swim"
     },
     {
       "id": "wake",
@@ -301,7 +313,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАЮ?",
           "text": "wake"
         }
-      ]
+      ],
+      "audio": "sentence-wake"
     },
     {
       "id": "bear",
@@ -322,7 +335,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the cost"
         }
-      ]
+      ],
+      "audio": "sentence-bear"
     },
     {
       "id": "beat",
@@ -343,7 +357,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the drum"
         }
-      ]
+      ],
+      "audio": "sentence-beat"
     },
     {
       "id": "begin",
@@ -364,7 +379,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the lesson"
         }
-      ]
+      ],
+      "audio": "sentence-begin"
     },
     {
       "id": "bite",
@@ -385,7 +401,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "their toys"
         }
-      ]
+      ],
+      "audio": "sentence-bite"
     },
     {
       "id": "blow",
@@ -406,7 +423,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "bubbles"
         }
-      ]
+      ],
+      "audio": "sentence-blow"
     },
     {
       "id": "break",
@@ -427,7 +445,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the chocolate"
         }
-      ]
+      ],
+      "audio": "sentence-break"
     },
     {
       "id": "build",
@@ -448,7 +467,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a house"
         }
-      ]
+      ],
+      "audio": "sentence-build"
     },
     {
       "id": "burn",
@@ -469,7 +489,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "wood"
         }
-      ]
+      ],
+      "audio": "sentence-burn"
     },
     {
       "id": "buy",
@@ -490,7 +511,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "bread"
         }
-      ]
+      ],
+      "audio": "sentence-buy"
     },
     {
       "id": "catch",
@@ -511,7 +533,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the ball"
         }
-      ]
+      ],
+      "audio": "sentence-catch"
     },
     {
       "id": "choose",
@@ -532,7 +555,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a book"
         }
-      ]
+      ],
+      "audio": "sentence-choose"
     },
     {
       "id": "cut",
@@ -553,7 +577,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the bread"
         }
-      ]
+      ],
+      "audio": "sentence-cut"
     },
     {
       "id": "dig",
@@ -574,7 +599,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a hole"
         }
-      ]
+      ],
+      "audio": "sentence-dig"
     },
     {
       "id": "do",
@@ -595,7 +621,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "my homework"
         }
-      ]
+      ],
+      "audio": "sentence-do"
     },
     {
       "id": "draw",
@@ -616,7 +643,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a cat"
         }
-      ]
+      ],
+      "audio": "sentence-draw"
     },
     {
       "id": "drink",
@@ -637,7 +665,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "coffee"
         }
-      ]
+      ],
+      "audio": "sentence-drink"
     },
     {
       "id": "eat",
@@ -658,7 +687,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "breakfast"
         }
-      ]
+      ],
+      "audio": "sentence-eat"
     },
     {
       "id": "feed",
@@ -679,7 +709,8 @@ window.FRAME_DATA = {
           "question": "КОГО?",
           "text": "the cat"
         }
-      ]
+      ],
+      "audio": "sentence-feed"
     },
     {
       "id": "find",
@@ -700,7 +731,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "my keys"
         }
-      ]
+      ],
+      "audio": "sentence-find"
     },
     {
       "id": "forbid",
@@ -721,7 +753,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "smoking"
         }
-      ]
+      ],
+      "audio": "sentence-forbid"
     },
     {
       "id": "forget",
@@ -742,7 +775,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "names"
         }
-      ]
+      ],
+      "audio": "sentence-forget"
     },
     {
       "id": "forgive",
@@ -763,7 +797,8 @@ window.FRAME_DATA = {
           "question": "КОГО?",
           "text": "my brother"
         }
-      ]
+      ],
+      "audio": "sentence-forgive"
     },
     {
       "id": "freeze",
@@ -784,7 +819,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "vegetables"
         }
-      ]
+      ],
+      "audio": "sentence-freeze"
     },
     {
       "id": "have",
@@ -805,7 +841,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a bike"
         }
-      ]
+      ],
+      "audio": "sentence-have"
     },
     {
       "id": "hide",
@@ -826,7 +863,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the present"
         }
-      ]
+      ],
+      "audio": "sentence-hide"
     },
     {
       "id": "hit",
@@ -847,7 +885,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the ball"
         }
-      ]
+      ],
+      "audio": "sentence-hit"
     },
     {
       "id": "hold",
@@ -868,7 +907,8 @@ window.FRAME_DATA = {
           "question": "КОГО?",
           "text": "the baby"
         }
-      ]
+      ],
+      "audio": "sentence-hold"
     },
     {
       "id": "keep",
@@ -889,7 +929,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "old letters"
         }
-      ]
+      ],
+      "audio": "sentence-keep"
     },
     {
       "id": "know",
@@ -910,7 +951,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the answer"
         }
-      ]
+      ],
+      "audio": "sentence-know"
     },
     {
       "id": "lead",
@@ -931,7 +973,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the team"
         }
-      ]
+      ],
+      "audio": "sentence-lead"
     },
     {
       "id": "learn",
@@ -952,7 +995,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "new words"
         }
-      ]
+      ],
+      "audio": "sentence-learn"
     },
     {
       "id": "leave",
@@ -973,7 +1017,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the room"
         }
-      ]
+      ],
+      "audio": "sentence-leave"
     },
     {
       "id": "light",
@@ -994,7 +1039,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a candle"
         }
-      ]
+      ],
+      "audio": "sentence-light"
     },
     {
       "id": "lose",
@@ -1015,7 +1061,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "my keys"
         }
-      ]
+      ],
+      "audio": "sentence-lose"
     },
     {
       "id": "mean",
@@ -1036,7 +1083,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "“home”"
         }
-      ]
+      ],
+      "audio": "sentence-mean"
     },
     {
       "id": "meet",
@@ -1057,7 +1105,8 @@ window.FRAME_DATA = {
           "question": "КОГО?",
           "text": "my friends"
         }
-      ]
+      ],
+      "audio": "sentence-meet"
     },
     {
       "id": "read",
@@ -1078,7 +1127,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a book"
         }
-      ]
+      ],
+      "audio": "sentence-read"
     },
     {
       "id": "say",
@@ -1099,7 +1149,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a few words"
         }
-      ]
+      ],
+      "audio": "sentence-say"
     },
     {
       "id": "sell",
@@ -1120,7 +1171,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "books"
         }
-      ]
+      ],
+      "audio": "sentence-sell"
     },
     {
       "id": "sew",
@@ -1141,7 +1193,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "clothes"
         }
-      ]
+      ],
+      "audio": "sentence-sew"
     },
     {
       "id": "shake",
@@ -1162,7 +1215,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the bottle"
         }
-      ]
+      ],
+      "audio": "sentence-shake"
     },
     {
       "id": "shoot",
@@ -1183,7 +1237,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a video"
         }
-      ]
+      ],
+      "audio": "sentence-shoot"
     },
     {
       "id": "shut",
@@ -1204,7 +1259,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the door"
         }
-      ]
+      ],
+      "audio": "sentence-shut"
     },
     {
       "id": "sing",
@@ -1225,7 +1281,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a song"
         }
-      ]
+      ],
+      "audio": "sentence-sing"
     },
     {
       "id": "spell",
@@ -1246,7 +1303,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "my name"
         }
-      ]
+      ],
+      "audio": "sentence-spell"
     },
     {
       "id": "spend",
@@ -1267,7 +1325,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "money"
         }
-      ]
+      ],
+      "audio": "sentence-spend"
     },
     {
       "id": "steal",
@@ -1288,7 +1347,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "money"
         }
-      ]
+      ],
+      "audio": "sentence-steal"
     },
     {
       "id": "sting",
@@ -1309,7 +1369,8 @@ window.FRAME_DATA = {
           "question": "КОГО?",
           "text": "people"
         }
-      ]
+      ],
+      "audio": "sentence-sting"
     },
     {
       "id": "sweep",
@@ -1330,7 +1391,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the floor"
         }
-      ]
+      ],
+      "audio": "sentence-sweep"
     },
     {
       "id": "throw",
@@ -1351,7 +1413,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the ball"
         }
-      ]
+      ],
+      "audio": "sentence-throw"
     },
     {
       "id": "take",
@@ -1372,7 +1435,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a photo"
         }
-      ]
+      ],
+      "audio": "sentence-take"
     },
     {
       "id": "tear",
@@ -1393,7 +1457,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the paper"
         }
-      ]
+      ],
+      "audio": "sentence-tear"
     },
     {
       "id": "understand",
@@ -1414,7 +1479,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the question"
         }
-      ]
+      ],
+      "audio": "sentence-understand"
     },
     {
       "id": "wear",
@@ -1435,7 +1501,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "glasses"
         }
-      ]
+      ],
+      "audio": "sentence-wear"
     },
     {
       "id": "win",
@@ -1456,7 +1523,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "the game"
         }
-      ]
+      ],
+      "audio": "sentence-win"
     },
     {
       "id": "write",
@@ -1477,7 +1545,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a letter"
         }
-      ]
+      ],
+      "audio": "sentence-write"
     },
     {
       "id": "see",
@@ -1498,7 +1567,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a bird"
         }
-      ]
+      ],
+      "audio": "sentence-see"
     },
     {
       "id": "be",
@@ -1519,7 +1589,8 @@ window.FRAME_DATA = {
           "question": "КАКИЕ?",
           "text": "happy"
         }
-      ]
+      ],
+      "audio": "sentence-be"
     },
     {
       "id": "become",
@@ -1540,7 +1611,8 @@ window.FRAME_DATA = {
           "question": "КАКОЙ?",
           "text": "nervous"
         }
-      ]
+      ],
+      "audio": "sentence-become"
     },
     {
       "id": "feel",
@@ -1561,7 +1633,8 @@ window.FRAME_DATA = {
           "question": "КАКОЙ?",
           "text": "tired"
         }
-      ]
+      ],
+      "audio": "sentence-feel"
     },
     {
       "id": "get",
@@ -1582,7 +1655,8 @@ window.FRAME_DATA = {
           "question": "КАКОЙ?",
           "text": "hungry"
         }
-      ]
+      ],
+      "audio": "sentence-get"
     },
     {
       "id": "smell",
@@ -1603,7 +1677,8 @@ window.FRAME_DATA = {
           "question": "КАКИЕ?",
           "text": "good"
         }
-      ]
+      ],
+      "audio": "sentence-smell"
     },
     {
       "id": "go",
@@ -1624,7 +1699,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "to school"
         }
-      ]
+      ],
+      "audio": "sentence-go"
     },
     {
       "id": "drive",
@@ -1645,7 +1721,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "to work"
         }
-      ]
+      ],
+      "audio": "sentence-drive"
     },
     {
       "id": "ride",
@@ -1666,7 +1743,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "to the park"
         }
-      ]
+      ],
+      "audio": "sentence-ride"
     },
     {
       "id": "come",
@@ -1687,7 +1765,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "to the office"
         }
-      ]
+      ],
+      "audio": "sentence-come"
     },
     {
       "id": "sit",
@@ -1708,7 +1787,8 @@ window.FRAME_DATA = {
           "question": "ГДЕ?",
           "text": "on a chair"
         }
-      ]
+      ],
+      "audio": "sentence-sit"
     },
     {
       "id": "put",
@@ -1733,7 +1813,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "on the table"
         }
-      ]
+      ],
+      "audio": "sentence-put"
     },
     {
       "id": "set",
@@ -1758,7 +1839,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "on the table"
         }
-      ]
+      ],
+      "audio": "sentence-set"
     },
     {
       "id": "hang",
@@ -1783,7 +1865,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "on a hook"
         }
-      ]
+      ],
+      "audio": "sentence-hang"
     },
     {
       "id": "stick",
@@ -1808,7 +1891,8 @@ window.FRAME_DATA = {
           "question": "КУДА?",
           "text": "on the envelope"
         }
-      ]
+      ],
+      "audio": "sentence-stick"
     },
     {
       "id": "bring",
@@ -1833,7 +1917,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "some coffee"
         }
-      ]
+      ],
+      "audio": "sentence-bring"
     },
     {
       "id": "give",
@@ -1858,7 +1943,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a book"
         }
-      ]
+      ],
+      "audio": "sentence-give"
     },
     {
       "id": "lend",
@@ -1883,7 +1969,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "my bike"
         }
-      ]
+      ],
+      "audio": "sentence-lend"
     },
     {
       "id": "send",
@@ -1908,7 +1995,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a message"
         }
-      ]
+      ],
+      "audio": "sentence-send"
     },
     {
       "id": "show",
@@ -1933,7 +2021,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a photo"
         }
-      ]
+      ],
+      "audio": "sentence-show"
     },
     {
       "id": "teach",
@@ -1958,7 +2047,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "English"
         }
-      ]
+      ],
+      "audio": "sentence-teach"
     },
     {
       "id": "tell",
@@ -1983,7 +2073,8 @@ window.FRAME_DATA = {
           "question": "ЧТО?",
           "text": "a story"
         }
-      ]
+      ],
+      "audio": "sentence-tell"
     },
     {
       "id": "deal",
@@ -2004,7 +2095,8 @@ window.FRAME_DATA = {
           "question": "С ЧЕМ?",
           "text": "with problems"
         }
-      ]
+      ],
+      "audio": "sentence-deal"
     },
     {
       "id": "dream",
@@ -2025,7 +2117,8 @@ window.FRAME_DATA = {
           "question": "О ЧЁМ?",
           "text": "about holidays"
         }
-      ]
+      ],
+      "audio": "sentence-dream"
     },
     {
       "id": "fight",
@@ -2046,7 +2139,8 @@ window.FRAME_DATA = {
           "question": "ЗА ЧТО?",
           "text": "for our rights"
         }
-      ]
+      ],
+      "audio": "sentence-fight"
     },
     {
       "id": "hear",
@@ -2067,7 +2161,8 @@ window.FRAME_DATA = {
           "question": "ОТ КОГО?",
           "text": "from my sister"
         }
-      ]
+      ],
+      "audio": "sentence-hear"
     },
     {
       "id": "pay",
@@ -2088,7 +2183,8 @@ window.FRAME_DATA = {
           "question": "ЗА ЧТО?",
           "text": "for lunch"
         }
-      ]
+      ],
+      "audio": "sentence-pay"
     },
     {
       "id": "speak",
@@ -2109,7 +2205,8 @@ window.FRAME_DATA = {
           "question": "С КЕМ?",
           "text": "to my teacher"
         }
-      ]
+      ],
+      "audio": "sentence-speak"
     },
     {
       "id": "think",
@@ -2130,7 +2227,8 @@ window.FRAME_DATA = {
           "question": "О КОМ?",
           "text": "about my family"
         }
-      ]
+      ],
+      "audio": "sentence-think"
     },
     {
       "id": "swear",
@@ -2151,7 +2249,8 @@ window.FRAME_DATA = {
           "question": "НА КОГО?",
           "text": "at the referee"
         }
-      ]
+      ],
+      "audio": "sentence-swear"
     },
     {
       "id": "let",
@@ -2176,7 +2275,8 @@ window.FRAME_DATA = {
           "question": "ЧТО СДЕЛАТЬ?",
           "text": "go"
         }
-      ]
+      ],
+      "audio": "sentence-let"
     },
     {
       "id": "make",
@@ -2201,7 +2301,8 @@ window.FRAME_DATA = {
           "question": "ЧТО СДЕЛАТЬ?",
           "text": "laugh"
         }
-      ]
+      ],
+      "audio": "sentence-make"
     },
     {
       "id": "cost",
@@ -2222,7 +2323,8 @@ window.FRAME_DATA = {
           "question": "СКОЛЬКО?",
           "text": "ten dollars"
         }
-      ]
+      ],
+      "audio": "sentence-cost"
     },
     {
       "id": "can",
@@ -2243,7 +2345,8 @@ window.FRAME_DATA = {
           "question": "ЧТО ДЕЛАТЬ?",
           "text": "swim"
         }
-      ]
+      ],
+      "audio": "sentence-can"
     }
   ]
 };

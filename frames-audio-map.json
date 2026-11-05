@@ -1,0 +1,826 @@
+[
+  {
+    "verb": "burst",
+    "sentence": "Balloons burst.",
+    "recognized": "balloons burst",
+    "source": "sentences-5",
+    "start": 3.39,
+    "end": 5.78
+  },
+  {
+    "verb": "fall",
+    "sentence": "Leaves fall.",
+    "recognized": "leaves fall",
+    "source": "sentences-5",
+    "start": 9.12,
+    "end": 11.18
+  },
+  {
+    "verb": "fly",
+    "sentence": "Birds fly.",
+    "recognized": "birds flying",
+    "source": "sentences-5",
+    "start": 13.77,
+    "end": 15.77
+  },
+  {
+    "verb": "grow",
+    "sentence": "Plants grow.",
+    "recognized": "plants grow",
+    "source": "sentences-5",
+    "start": 18.24,
+    "end": 20.27
+  },
+  {
+    "verb": "hurt",
+    "sentence": "My knees hurt.",
+    "recognized": "my knees hurt",
+    "source": "sentences-5",
+    "start": 22.74,
+    "end": 25.04
+  },
+  {
+    "verb": "ring",
+    "sentence": "Phones ring.",
+    "recognized": "phones dream",
+    "source": "sentences-5",
+    "start": 27.69,
+    "end": 29.87
+  },
+  {
+    "verb": "rise",
+    "sentence": "Prices rise.",
+    "recognized": "prices rise",
+    "source": "sentences-5",
+    "start": 32.52,
+    "end": 34.91
+  },
+  {
+    "verb": "run",
+    "sentence": "I run.",
+    "recognized": "i wrong",
+    "source": "sentences-5",
+    "start": 37.32,
+    "end": 39.23
+  },
+  {
+    "verb": "shine",
+    "sentence": "Stars shine.",
+    "recognized": "stars shine",
+    "source": "sentences-5",
+    "start": 41.88,
+    "end": 44.15
+  },
+  {
+    "verb": "sleep",
+    "sentence": "I sleep.",
+    "recognized": "i sleep",
+    "source": "sentences-5",
+    "start": 46.98,
+    "end": 48.83
+  },
+  {
+    "verb": "stand",
+    "sentence": "I stand.",
+    "recognized": "i stand",
+    "source": "sentences-5",
+    "start": 51.48,
+    "end": 53.63
+  },
+  {
+    "verb": "swim",
+    "sentence": "I swim.",
+    "recognized": "i swim",
+    "source": "sentences-5",
+    "start": 56.16,
+    "end": 58.16
+  },
+  {
+    "verb": "wake",
+    "sentence": "I wake.",
+    "recognized": "i wake",
+    "source": "sentences-5",
+    "start": 60.63,
+    "end": 62.6
+  },
+  {
+    "verb": "bear",
+    "sentence": "I bear the cost.",
+    "recognized": "i'd be of the coast",
+    "source": "sentences-5",
+    "start": 65.58,
+    "end": 67.79
+  },
+  {
+    "verb": "beat",
+    "sentence": "I beat the drum.",
+    "recognized": "i beat the drum",
+    "source": "sentences-5",
+    "start": 70.08,
+    "end": 72.17
+  },
+  {
+    "verb": "begin",
+    "sentence": "I begin the lesson.",
+    "recognized": "i begin the less than",
+    "source": "sentences-5",
+    "start": 74.31,
+    "end": 76.58
+  },
+  {
+    "verb": "bite",
+    "sentence": "Dogs bite their toys.",
+    "recognized": "dogs by the at toys",
+    "source": "sentences-5",
+    "start": 78.81,
+    "end": 81.83
+  },
+  {
+    "verb": "blow",
+    "sentence": "I blow bubbles.",
+    "recognized": "i blow bubbles",
+    "source": "sentences-5",
+    "start": 83.91,
+    "end": 86.3
+  },
+  {
+    "verb": "break",
+    "sentence": "I break the chocolate.",
+    "recognized": "i break the chocolate",
+    "source": "sentences-5",
+    "start": 88.65,
+    "end": 91.01
+  },
+  {
+    "verb": "build",
+    "sentence": "I build a house.",
+    "recognized": "i build a house",
+    "source": "sentences-5",
+    "start": 93.21,
+    "end": 95.99
+  },
+  {
+    "verb": "burn",
+    "sentence": "We burn wood.",
+    "recognized": "we burn wound",
+    "source": "sentences-5",
+    "start": 98.16,
+    "end": 100.58
+  },
+  {
+    "verb": "buy",
+    "sentence": "I buy bread.",
+    "recognized": "i buy bread",
+    "source": "sentences-5",
+    "start": 103.02,
+    "end": 105.59
+  },
+  {
+    "verb": "catch",
+    "sentence": "I catch the ball.",
+    "recognized": "i catch the ball",
+    "source": "sentences-5",
+    "start": 107.79,
+    "end": 110.39
+  },
+  {
+    "verb": "choose",
+    "sentence": "I choose a book.",
+    "recognized": "i choose a book",
+    "source": "sentences-5",
+    "start": 112.53,
+    "end": 114.86
+  },
+  {
+    "verb": "cut",
+    "sentence": "I cut the bread.",
+    "recognized": "i caught the bread",
+    "source": "sentences-5",
+    "start": 116.94,
+    "end": 119.48
+  },
+  {
+    "verb": "dig",
+    "sentence": "I dig a hole.",
+    "recognized": "i dig a hole",
+    "source": "sentences-5",
+    "start": 121.59,
+    "end": 124.22
+  },
+  {
+    "verb": "do",
+    "sentence": "I do my homework.",
+    "recognized": "i do my homework",
+    "source": "sentences-5",
+    "start": 125.91,
+    "end": 128.6
+  },
+  {
+    "verb": "draw",
+    "sentence": "I draw a cat.",
+    "recognized": "i draw a cat",
+    "source": "sentences-5",
+    "start": 130.5,
+    "end": 132.74
+  },
+  {
+    "verb": "drink",
+    "sentence": "I drink coffee.",
+    "recognized": "i dream coffee",
+    "source": "sentences-5",
+    "start": 134.79,
+    "end": 137.09
+  },
+  {
+    "verb": "eat",
+    "sentence": "I eat breakfast.",
+    "recognized": "i eat breakfast",
+    "source": "sentences-5",
+    "start": 138.81,
+    "end": 141.47
+  },
+  {
+    "verb": "feed",
+    "sentence": "I feed the cat.",
+    "recognized": "i feed the cat",
+    "source": "sentences-5",
+    "start": 143.1,
+    "end": 145.64
+  },
+  {
+    "verb": "find",
+    "sentence": "I find my keys.",
+    "recognized": "i find my keys",
+    "source": "sentences-5",
+    "start": 147.09,
+    "end": 149.75
+  },
+  {
+    "verb": "forbid",
+    "sentence": "We forbid smoking.",
+    "recognized": "we've had been smoking",
+    "source": "sentences-5",
+    "start": 151.56,
+    "end": 154.25
+  },
+  {
+    "verb": "forget",
+    "sentence": "I forget names.",
+    "recognized": "i forget names",
+    "source": "sentences-5",
+    "start": 155.7,
+    "end": 158.6
+  },
+  {
+    "verb": "forgive",
+    "sentence": "I forgive my brother.",
+    "recognized": "i forgive my brother",
+    "source": "sentences-5",
+    "start": 160.14,
+    "end": 162.71
+  },
+  {
+    "verb": "freeze",
+    "sentence": "I freeze vegetables.",
+    "recognized": "i freeze vegetables",
+    "source": "sentences-5",
+    "start": 164.37,
+    "end": 167.3
+  },
+  {
+    "verb": "have",
+    "sentence": "I have a bike.",
+    "recognized": "i have a bike",
+    "source": "sentences-5",
+    "start": 168.69,
+    "end": 170.96
+  },
+  {
+    "verb": "hide",
+    "sentence": "I hide the present.",
+    "recognized": "i hide the present",
+    "source": "sentences-5",
+    "start": 173.04,
+    "end": 175.85
+  },
+  {
+    "verb": "hit",
+    "sentence": "I hit the ball.",
+    "recognized": "i hit the ball",
+    "source": "sentences-5",
+    "start": 178.32,
+    "end": 180.8
+  },
+  {
+    "verb": "hold",
+    "sentence": "I hold the baby.",
+    "recognized": "i hold the baby",
+    "source": "sentences-5",
+    "start": 182.58,
+    "end": 185.15
+  },
+  {
+    "verb": "keep",
+    "sentence": "I keep old letters.",
+    "recognized": "i keep old letters",
+    "source": "sentences-5",
+    "start": 186.57,
+    "end": 189.41
+  },
+  {
+    "verb": "know",
+    "sentence": "I know the answer.",
+    "recognized": "i know the answer",
+    "source": "sentences-5",
+    "start": 190.74,
+    "end": 193.49
+  },
+  {
+    "verb": "lead",
+    "sentence": "I lead the team.",
+    "recognized": "i lead the team",
+    "source": "sentences-5",
+    "start": 195.18,
+    "end": 197.63
+  },
+  {
+    "verb": "learn",
+    "sentence": "I learn new words.",
+    "recognized": "i learn new words",
+    "source": "sentences-5",
+    "start": 199.11,
+    "end": 201.98
+  },
+  {
+    "verb": "leave",
+    "sentence": "I leave the room.",
+    "recognized": "i leave the room",
+    "source": "sentences-5",
+    "start": 203.37,
+    "end": 205.52
+  },
+  {
+    "verb": "light",
+    "sentence": "I light a candle.",
+    "recognized": "i light a candle",
+    "source": "sentences-5",
+    "start": 206.94,
+    "end": 209.3
+  },
+  {
+    "verb": "lose",
+    "sentence": "I lose my keys.",
+    "recognized": "i lose my keys",
+    "source": "sentences-5",
+    "start": 210.81,
+    "end": 213.38
+  },
+  {
+    "verb": "mean",
+    "sentence": "These words mean “home”.",
+    "recognized": "these words mean home",
+    "source": "sentences-5",
+    "start": 214.8,
+    "end": 218.0
+  },
+  {
+    "verb": "meet",
+    "sentence": "I meet my friends.",
+    "recognized": "i meet my friends",
+    "source": "sentences-5",
+    "start": 220.14,
+    "end": 223.25
+  },
+  {
+    "verb": "read",
+    "sentence": "I read a book.",
+    "recognized": "i read a book",
+    "source": "sentences-5",
+    "start": 224.79,
+    "end": 226.94
+  },
+  {
+    "verb": "say",
+    "sentence": "I say a few words.",
+    "recognized": "i see a few words",
+    "source": "sentences-5",
+    "start": 228.42,
+    "end": 231.29
+  },
+  {
+    "verb": "sell",
+    "sentence": "We sell books.",
+    "recognized": "we sell books",
+    "source": "sentences-5",
+    "start": 232.53,
+    "end": 235.22
+  },
+  {
+    "verb": "sew",
+    "sentence": "I sew clothes.",
+    "recognized": "iso claw this",
+    "source": "sentences-5",
+    "start": 237.39,
+    "end": 240.41
+  },
+  {
+    "verb": "shake",
+    "sentence": "I shake the bottle.",
+    "recognized": "i shake the bottle",
+    "source": "sentences-5",
+    "start": 241.53,
+    "end": 245.03
+  },
+  {
+    "verb": "shoot",
+    "sentence": "I shoot a video.",
+    "recognized": "i shoot a video",
+    "source": "sentences-5",
+    "start": 247.53,
+    "end": 249.95
+  },
+  {
+    "verb": "shut",
+    "sentence": "I shut the door.",
+    "recognized": "i shut the door",
+    "source": "sentences-5",
+    "start": 251.91,
+    "end": 254.66
+  },
+  {
+    "verb": "sing",
+    "sentence": "I sing a song.",
+    "recognized": "i sing a song",
+    "source": "sentences-5",
+    "start": 255.96,
+    "end": 258.71
+  },
+  {
+    "verb": "spell",
+    "sentence": "I spell my name.",
+    "recognized": "i spell my name",
+    "source": "sentences-5",
+    "start": 260.37,
+    "end": 263.27
+  },
+  {
+    "verb": "spend",
+    "sentence": "I spend money.",
+    "recognized": "i spend money",
+    "source": "sentences-5",
+    "start": 265.08,
+    "end": 267.29
+  },
+  {
+    "verb": "steal",
+    "sentence": "Thieves steal money.",
+    "recognized": "thieves steal money",
+    "source": "sentences-5",
+    "start": 270.03,
+    "end": 273.02
+  },
+  {
+    "verb": "sting",
+    "sentence": "Bees sting people.",
+    "recognized": "bees steam people",
+    "source": "sentences-5",
+    "start": 275.52,
+    "end": 278.75
+  },
+  {
+    "verb": "sweep",
+    "sentence": "I sweep the floor.",
+    "recognized": "i sweep the floor",
+    "source": "sentences-5",
+    "start": 280.5,
+    "end": 283.4
+  },
+  {
+    "verb": "throw",
+    "sentence": "I throw the ball.",
+    "recognized": "i throw the ball",
+    "source": "sentences-5",
+    "start": 284.85,
+    "end": 287.63
+  },
+  {
+    "verb": "take",
+    "sentence": "I take a photo.",
+    "recognized": "i'd take a photo",
+    "source": "sentences-5",
+    "start": 289.17,
+    "end": 291.56
+  },
+  {
+    "verb": "tear",
+    "sentence": "I tear the paper.",
+    "recognized": "i tear the paper",
+    "source": "sentences-5",
+    "start": 293.22,
+    "end": 295.73
+  },
+  {
+    "verb": "understand",
+    "sentence": "I understand the question.",
+    "recognized": "i understand the question",
+    "source": "sentences-5",
+    "start": 297.57,
+    "end": 300.26
+  },
+  {
+    "verb": "wear",
+    "sentence": "I wear glasses.",
+    "recognized": "i wear glasses",
+    "source": "sentences-5",
+    "start": 301.89,
+    "end": 304.79
+  },
+  {
+    "verb": "win",
+    "sentence": "We win the game.",
+    "recognized": "we win the game",
+    "source": "sentences-5",
+    "start": 305.82,
+    "end": 308.48
+  },
+  {
+    "verb": "write",
+    "sentence": "I write a letter.",
+    "recognized": "i write a letter",
+    "source": "sentences-5",
+    "start": 309.96,
+    "end": 312.41
+  },
+  {
+    "verb": "see",
+    "sentence": "I see a bird.",
+    "recognized": "i see a bird",
+    "source": "sentences-5",
+    "start": 314.46,
+    "end": 316.76
+  },
+  {
+    "verb": "be",
+    "sentence": "We are happy.",
+    "recognized": "we are happy",
+    "source": "sentences-6",
+    "start": 3.48,
+    "end": 5.42
+  },
+  {
+    "verb": "become",
+    "sentence": "I become nervous.",
+    "recognized": "i become nervous",
+    "source": "sentences-6",
+    "start": 8.19,
+    "end": 11.12
+  },
+  {
+    "verb": "feel",
+    "sentence": "I feel tired.",
+    "recognized": "i feel tired",
+    "source": "sentences-6",
+    "start": 12.81,
+    "end": 15.02
+  },
+  {
+    "verb": "get",
+    "sentence": "I get hungry.",
+    "recognized": "i get hungry",
+    "source": "sentences-6",
+    "start": 17.01,
+    "end": 19.13
+  },
+  {
+    "verb": "smell",
+    "sentence": "These flowers smell good.",
+    "recognized": "these flowers smell good",
+    "source": "sentences-6",
+    "start": 21.12,
+    "end": 24.32
+  },
+  {
+    "verb": "go",
+    "sentence": "I go to school.",
+    "recognized": "i go to school",
+    "source": "sentences-6",
+    "start": 27.12,
+    "end": 29.36
+  },
+  {
+    "verb": "drive",
+    "sentence": "I drive to work.",
+    "recognized": "i drive to work",
+    "source": "sentences-6",
+    "start": 31.86,
+    "end": 34.22
+  },
+  {
+    "verb": "ride",
+    "sentence": "I ride to the park.",
+    "recognized": "i ride to the park",
+    "source": "sentences-6",
+    "start": 36.51,
+    "end": 38.99
+  },
+  {
+    "verb": "come",
+    "sentence": "I come to the office.",
+    "recognized": "i come to the office",
+    "source": "sentences-6",
+    "start": 41.31,
+    "end": 44.15
+  },
+  {
+    "verb": "sit",
+    "sentence": "I sit on a chair.",
+    "recognized": "i see it on a chair",
+    "source": "sentences-6",
+    "start": 45.93,
+    "end": 48.35
+  },
+  {
+    "verb": "put",
+    "sentence": "I put my keys on the table.",
+    "recognized": "i put my keys on the table",
+    "source": "sentences-6",
+    "start": 51.39,
+    "end": 54.41
+  },
+  {
+    "verb": "set",
+    "sentence": "I set the cup on the table.",
+    "recognized": "i said the cop on the table",
+    "source": "sentences-6",
+    "start": 56.67,
+    "end": 59.87
+  },
+  {
+    "verb": "hang",
+    "sentence": "I hang my coat on a hook.",
+    "recognized": "i hang my coat on the hook",
+    "source": "sentences-6",
+    "start": 62.85,
+    "end": 66.08
+  },
+  {
+    "verb": "stick",
+    "sentence": "I stick a stamp on the envelope.",
+    "recognized": "i stick a stem on the envelope",
+    "source": "sentences-6",
+    "start": 68.85,
+    "end": 72.35
+  },
+  {
+    "verb": "bring",
+    "sentence": "I bring my friend some coffee.",
+    "recognized": "i bring my friend some coffee",
+    "source": "sentences-6",
+    "start": 76.32,
+    "end": 79.43
+  },
+  {
+    "verb": "give",
+    "sentence": "I give my sister a book.",
+    "recognized": "i gave my sister a book",
+    "source": "sentences-6",
+    "start": 81.96,
+    "end": 84.92
+  },
+  {
+    "verb": "lend",
+    "sentence": "I lend my friend my bike.",
+    "recognized": "i of my friend my bike",
+    "source": "sentences-6",
+    "start": 87.12,
+    "end": 90.35
+  },
+  {
+    "verb": "send",
+    "sentence": "I send my mother a message.",
+    "recognized": "i send my mother and message",
+    "source": "sentences-6",
+    "start": 92.97,
+    "end": 96.41
+  },
+  {
+    "verb": "show",
+    "sentence": "I show my teacher a photo.",
+    "recognized": "i show my teacher a folder",
+    "source": "sentences-6",
+    "start": 99.57,
+    "end": 102.62
+  },
+  {
+    "verb": "teach",
+    "sentence": "I teach children English.",
+    "recognized": "i teach children english",
+    "source": "sentences-6",
+    "start": 105.9,
+    "end": 109.37
+  },
+  {
+    "verb": "tell",
+    "sentence": "I tell my son a story.",
+    "recognized": "i tell my song a story",
+    "source": "sentences-6",
+    "start": 111.57,
+    "end": 114.56
+  },
+  {
+    "verb": "deal",
+    "sentence": "I deal with problems.",
+    "recognized": "i deal with problems",
+    "source": "sentences-6",
+    "start": 117.93,
+    "end": 120.98
+  },
+  {
+    "verb": "dream",
+    "sentence": "I dream about holidays.",
+    "recognized": "i dream about holidays",
+    "source": "sentences-6",
+    "start": 124.41,
+    "end": 127.52
+  },
+  {
+    "verb": "fight",
+    "sentence": "We fight for our rights.",
+    "recognized": "we fight for our rights",
+    "source": "sentences-6",
+    "start": 130.05,
+    "end": 133.22
+  },
+  {
+    "verb": "hear",
+    "sentence": "I hear from my sister.",
+    "recognized": "i hear from my sister",
+    "source": "sentences-6",
+    "start": 135.6,
+    "end": 138.32
+  },
+  {
+    "verb": "pay",
+    "sentence": "I pay for lunch.",
+    "recognized": "i pay a lunch",
+    "source": "sentences-6",
+    "start": 141.36,
+    "end": 144.05
+  },
+  {
+    "verb": "speak",
+    "sentence": "I speak to my teacher.",
+    "recognized": "i speak to my teacher",
+    "source": "sentences-6",
+    "start": 146.7,
+    "end": 149.42
+  },
+  {
+    "verb": "think",
+    "sentence": "I think about my family.",
+    "recognized": "i think about my family",
+    "source": "sentences-6",
+    "start": 152.19,
+    "end": 154.79
+  },
+  {
+    "verb": "swear",
+    "sentence": "They swear at the referee.",
+    "recognized": "they swear at the referee",
+    "source": "sentences-6",
+    "start": 157.23,
+    "end": 161.09
+  },
+  {
+    "verb": "let",
+    "sentence": "I let him go.",
+    "recognized": "i let him go",
+    "source": "sentences-6",
+    "start": 165.45,
+    "end": 167.51
+  },
+  {
+    "verb": "make",
+    "sentence": "I make him laugh.",
+    "recognized": "i make him laugh",
+    "source": "sentences-6",
+    "start": 170.61,
+    "end": 172.64
+  },
+  {
+    "verb": "cost",
+    "sentence": "These books cost ten dollars.",
+    "recognized": "these books costs ten dollars",
+    "source": "sentences-6",
+    "start": 175.86,
+    "end": 179.6
+  },
+  {
+    "verb": "can",
+    "sentence": "I can swim.",
+    "recognized": "i can swim",
+    "source": "sentences-6",
+    "start": 181.89,
+    "end": 183.83
+  }
+]
