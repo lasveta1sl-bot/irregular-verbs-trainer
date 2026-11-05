@@ -2,73 +2,83 @@ window.FRAME_DATA = {
   "frames": [
     {
       "id": "sv",
-      "name": "S + V",
-      "label": "Только подлежащее и глагол",
-      "pattern": "Кто-то что-то делает. Например: I sleep.",
-      "note": "В этих предложениях нет дополнения. Глагол употребляется без -s."
+      "name": "КТО / ЧТО? → ЧТО ДЕЛАЕТ?",
+      "label": "Только действие",
+      "pattern": "КТО / ЧТО? → ЧТО ДЕЛАЕТ?",
+      "note": "Вопросы помогают увидеть части английского предложения. В зависимости от подлежащего: что делаю? что делаем? что делают?",
+      "scheme": "S + V"
     },
     {
       "id": "svo",
-      "name": "S + V + O",
+      "name": "КТО? → ЧТО ДЕЛАЕТ? → КОГО / ЧТО?",
       "label": "Действие и объект",
-      "pattern": "Кто-то делает что-то с кем-то или чем-то.",
-      "note": "O — дополнение в английской конструкции. Русский перевод может строиться иначе."
+      "pattern": "КТО / ЧТО? → ЧТО ДЕЛАЕТ? → КОГО / ЧТО?",
+      "note": "Вопрос к объекту — подсказка к английской конструкции. Русский перевод может требовать другого падежа: I meet my friends → Я встречаюсь с друзьями.",
+      "scheme": "S + V + O"
     },
     {
       "id": "svc",
-      "name": "S + V + C",
+      "name": "КТО? → СОСТОЯНИЕ → КАКОЙ?",
       "label": "Состояние или характеристика",
-      "pattern": "Кто-то является или становится каким-то.",
-      "note": "C — характеристика подлежащего. Исключение be: в Present Simple нужны am / are / is; здесь We are happy."
+      "pattern": "КТО / ЧТО? → ЕСТЬ / СТАНОВИТСЯ / ЧУВСТВУЕТ СЕБЯ → КАКОЙ?",
+      "note": "Здесь сообщаем о состоянии или признаке, а не действии над объектом. В настоящем времени be принимает форму am / are / is; We are happy — Мы счастливы.",
+      "scheme": "S + V + C"
     },
     {
       "id": "place",
-      "name": "S + V + место",
+      "name": "КТО? → ЧТО ДЕЛАЕТ? → ГДЕ / КУДА?",
       "label": "Направление и положение",
-      "pattern": "to + place: куда? on + place: где?",
-      "note": "Движение: I come to the office. Положение: I sit on a chair. Предлог выбираем по смыслу."
+      "pattern": "КТО? → ЧТО ДЕЛАЕТ? → ГДЕ? / КУДА?",
+      "note": "Куда? — to school, to the office. Где? — on a chair. Учим английский предлог вместе с местом.",
+      "scheme": "S + V + место"
     },
     {
       "id": "object-place",
-      "name": "S + V + O + место",
+      "name": "КТО? → ЧТО ДЕЛАЕТ? → ЧТО? → КУДА?",
       "label": "Помещаем предмет",
-      "pattern": "Кто-то помещает что-то куда-то.",
-      "note": "Учим вместе действие, предмет и место: I put my keys on the table."
+      "pattern": "КТО? → ЧТО ДЕЛАЕТ? → ЧТО? → КУДА?",
+      "note": "Сначала называем предмет, затем место: I put → my keys → on the table.",
+      "scheme": "S + V + O + место"
     },
     {
       "id": "svoo",
-      "name": "S + V + кому + что",
-      "label": "Два дополнения",
-      "pattern": "Кому? Что?",
-      "note": "Первое дополнение — получатель, второе — предмет или содержание: I give my sister a book."
+      "name": "КТО? → ЧТО ДЕЛАЕТ? → КОМУ? → ЧТО?",
+      "label": "Получатель и предмет",
+      "pattern": "КТО? → ЧТО ДЕЛАЕТ? → КОМУ? → ЧТО?",
+      "note": "В английском без предлога: I give → my sister → a book. Кому? — my sister. Что? — a book.",
+      "scheme": "S + V + кому + что"
     },
     {
       "id": "prep",
-      "name": "S + V + предлог + O",
+      "name": "КТО? → ЧТО ДЕЛАЕТ? → ПРЕДЛОГ + ВОПРОС",
       "label": "Глагол с предлогом",
-      "pattern": "with · about · for · from · to · at",
-      "note": "Запоминаем сочетание целиком. Например: pay for lunch, think about my family."
+      "pattern": "КТО? → ЧТО ДЕЛАЕТ? → О КОМ? / ЗА ЧТО? / С КЕМ?…",
+      "note": "Для каждой карточки вопрос свой: think about — о ком / о чём? pay for — за что? hear from — от кого? Вопросы относятся к смыслу перевода; английское сочетание учим целиком.",
+      "scheme": "S + V + предлог + O"
     },
     {
       "id": "causative",
-      "name": "S + V + O + V",
+      "name": "КТО? → ПОЗВОЛЯЕТ / ЗАСТАВЛЯЕТ → …",
       "label": "Let и make",
-      "pattern": "После let / make: глагол без to",
-      "note": "I let him go. I make him laugh. В этих активных конструкциях второй глагол идёт без to."
+      "pattern": "КТО? → ПОЗВОЛЯЕТ / ЗАСТАВЛЯЕТ → КОМУ? / КОГО? → ЧТО СДЕЛАТЬ?",
+      "note": "I let him go — Я позволяю ему уйти. I make him laugh — Я вызываю у него смех. После let / make в этих активных конструкциях нет to.",
+      "scheme": "S + V + O + V"
     },
     {
       "id": "amount",
-      "name": "S + V + стоимость",
-      "label": "Сколько стоит",
-      "pattern": "Предмет + cost + сумма",
-      "note": "Сумма обозначает стоимость. Используем множественное число, чтобы сохранить cost без -s."
+      "name": "ЧТО? → СТОИТ → СКОЛЬКО?",
+      "label": "Стоимость",
+      "pattern": "ЧТО? → СТОИТ → СКОЛЬКО?",
+      "note": "Вопрос «сколько?» относится к цене. These books cost ten dollars — Эти книги стоят десять долларов.",
+      "scheme": "S + V + стоимость"
     },
     {
       "id": "modal",
-      "name": "S + can + V",
+      "name": "КТО? → МОЖЕТ / УМЕЕТ → ЧТО ДЕЛАТЬ?",
       "label": "Способность",
-      "pattern": "После can: глагол без to",
-      "note": "Can не меняется по лицам. Следующий глагол употребляется в начальной форме: I can swim."
+      "pattern": "КТО? → МОЖЕТ / УМЕЕТ → ЧТО ДЕЛАТЬ?",
+      "note": "I can swim — Я умею плавать. После can употребляем глагол без to.",
+      "scheme": "S + can + V"
     }
   ],
   "cards": [
@@ -77,721 +87,2163 @@ window.FRAME_DATA = {
       "verb": "burst",
       "frame": "sv",
       "en": "Balloons burst.",
-      "ru": "Воздушные шары лопаются."
+      "ru": "Воздушные шары лопаются.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Balloons"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "burst"
+        }
+      ]
     },
     {
       "id": "fall",
       "verb": "fall",
       "frame": "sv",
       "en": "Leaves fall.",
-      "ru": "Листья падают."
+      "ru": "Листья падают.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Leaves"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "fall"
+        }
+      ]
     },
     {
       "id": "fly",
       "verb": "fly",
       "frame": "sv",
       "en": "Birds fly.",
-      "ru": "Птицы летают."
+      "ru": "Птицы летают.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "Birds"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "fly"
+        }
+      ]
     },
     {
       "id": "grow",
       "verb": "grow",
       "frame": "sv",
       "en": "Plants grow.",
-      "ru": "Растения растут."
+      "ru": "Растения растут.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Plants"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "grow"
+        }
+      ]
     },
     {
       "id": "hurt",
       "verb": "hurt",
       "frame": "sv",
       "en": "My knees hurt.",
-      "ru": "У меня болят колени."
+      "ru": "У меня болят колени.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "My knees"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "hurt"
+        }
+      ]
     },
     {
       "id": "ring",
       "verb": "ring",
       "frame": "sv",
       "en": "Phones ring.",
-      "ru": "Телефоны звонят."
+      "ru": "Телефоны звонят.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Phones"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "ring"
+        }
+      ]
     },
     {
       "id": "rise",
       "verb": "rise",
       "frame": "sv",
       "en": "Prices rise.",
-      "ru": "Цены растут."
+      "ru": "Цены растут.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Prices"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "rise"
+        }
+      ]
     },
     {
       "id": "run",
       "verb": "run",
       "frame": "sv",
       "en": "I run.",
-      "ru": "Я бегаю."
+      "ru": "Я бегаю.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "run"
+        }
+      ]
     },
     {
       "id": "shine",
       "verb": "shine",
       "frame": "sv",
       "en": "Stars shine.",
-      "ru": "Звёзды светят."
+      "ru": "Звёзды светят.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "Stars"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "shine"
+        }
+      ]
     },
     {
       "id": "sleep",
       "verb": "sleep",
       "frame": "sv",
       "en": "I sleep.",
-      "ru": "Я сплю."
+      "ru": "Я сплю.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "sleep"
+        }
+      ]
     },
     {
       "id": "stand",
       "verb": "stand",
       "frame": "sv",
       "en": "I stand.",
-      "ru": "Я стою."
+      "ru": "Я стою.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "stand"
+        }
+      ]
     },
     {
       "id": "swim",
       "verb": "swim",
       "frame": "sv",
       "en": "I swim.",
-      "ru": "Я плаваю."
+      "ru": "Я плаваю.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "swim"
+        }
+      ]
     },
     {
       "id": "wake",
       "verb": "wake",
       "frame": "sv",
       "en": "I wake.",
-      "ru": "Я просыпаюсь."
+      "ru": "Я просыпаюсь.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "wake"
+        }
+      ]
     },
     {
       "id": "bear",
       "verb": "bear",
       "frame": "svo",
       "en": "I bear the cost.",
-      "ru": "Я беру расходы на себя."
+      "ru": "Я беру расходы на себя.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "bear"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the cost"
+        }
+      ]
     },
     {
       "id": "beat",
       "verb": "beat",
       "frame": "svo",
       "en": "I beat the drum.",
-      "ru": "Я бью в барабан."
+      "ru": "Я бью в барабан.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "beat"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the drum"
+        }
+      ]
     },
     {
       "id": "begin",
       "verb": "begin",
       "frame": "svo",
       "en": "I begin the lesson.",
-      "ru": "Я начинаю урок."
+      "ru": "Я начинаю урок.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "begin"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the lesson"
+        }
+      ]
     },
     {
       "id": "bite",
       "verb": "bite",
       "frame": "svo",
       "en": "Dogs bite their toys.",
-      "ru": "Собаки кусают свои игрушки."
+      "ru": "Собаки кусают свои игрушки.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "Dogs"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "bite"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "their toys"
+        }
+      ]
     },
     {
       "id": "blow",
       "verb": "blow",
       "frame": "svo",
       "en": "I blow bubbles.",
-      "ru": "Я пускаю мыльные пузыри."
+      "ru": "Я пускаю мыльные пузыри.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "blow"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "bubbles"
+        }
+      ]
     },
     {
       "id": "break",
       "verb": "break",
       "frame": "svo",
       "en": "I break the chocolate.",
-      "ru": "Я ломаю шоколад."
+      "ru": "Я ломаю шоколад.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "break"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the chocolate"
+        }
+      ]
     },
     {
       "id": "build",
       "verb": "build",
       "frame": "svo",
       "en": "I build a house.",
-      "ru": "Я строю дом."
+      "ru": "Я строю дом.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "build"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a house"
+        }
+      ]
     },
     {
       "id": "burn",
       "verb": "burn",
       "frame": "svo",
       "en": "We burn wood.",
-      "ru": "Мы сжигаем древесину."
+      "ru": "Мы сжигаем древесину.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЧТО ДЕЛАЕМ?",
+          "text": "burn"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "wood"
+        }
+      ]
     },
     {
       "id": "buy",
       "verb": "buy",
       "frame": "svo",
       "en": "I buy bread.",
-      "ru": "Я покупаю хлеб."
+      "ru": "Я покупаю хлеб.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "buy"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "bread"
+        }
+      ]
     },
     {
       "id": "catch",
       "verb": "catch",
       "frame": "svo",
       "en": "I catch the ball.",
-      "ru": "Я ловлю мяч."
+      "ru": "Я ловлю мяч.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "catch"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the ball"
+        }
+      ]
     },
     {
       "id": "choose",
       "verb": "choose",
       "frame": "svo",
       "en": "I choose a book.",
-      "ru": "Я выбираю книгу."
+      "ru": "Я выбираю книгу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "choose"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a book"
+        }
+      ]
     },
     {
       "id": "cut",
       "verb": "cut",
       "frame": "svo",
       "en": "I cut the bread.",
-      "ru": "Я режу хлеб."
+      "ru": "Я режу хлеб.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "cut"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the bread"
+        }
+      ]
     },
     {
       "id": "dig",
       "verb": "dig",
       "frame": "svo",
       "en": "I dig a hole.",
-      "ru": "Я копаю яму."
+      "ru": "Я копаю яму.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "dig"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a hole"
+        }
+      ]
     },
     {
       "id": "do",
       "verb": "do",
       "frame": "svo",
       "en": "I do my homework.",
-      "ru": "Я делаю домашнее задание."
+      "ru": "Я делаю домашнее задание.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "do"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my homework"
+        }
+      ]
     },
     {
       "id": "draw",
       "verb": "draw",
       "frame": "svo",
       "en": "I draw a cat.",
-      "ru": "Я рисую кошку."
+      "ru": "Я рисую кошку.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "draw"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a cat"
+        }
+      ]
     },
     {
       "id": "drink",
       "verb": "drink",
       "frame": "svo",
       "en": "I drink coffee.",
-      "ru": "Я пью кофе."
+      "ru": "Я пью кофе.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "drink"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "coffee"
+        }
+      ]
     },
     {
       "id": "eat",
       "verb": "eat",
       "frame": "svo",
       "en": "I eat breakfast.",
-      "ru": "Я завтракаю."
+      "ru": "Я завтракаю.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "eat"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "breakfast"
+        }
+      ]
     },
     {
       "id": "feed",
       "verb": "feed",
       "frame": "svo",
       "en": "I feed the cat.",
-      "ru": "Я кормлю кошку."
+      "ru": "Я кормлю кошку.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "feed"
+        },
+        {
+          "question": "КОГО?",
+          "text": "the cat"
+        }
+      ]
     },
     {
       "id": "find",
       "verb": "find",
       "frame": "svo",
       "en": "I find my keys.",
-      "ru": "Я нахожу свои ключи."
+      "ru": "Я нахожу свои ключи.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "find"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my keys"
+        }
+      ]
     },
     {
       "id": "forbid",
       "verb": "forbid",
       "frame": "svo",
       "en": "We forbid smoking.",
-      "ru": "Мы запрещаем курение."
+      "ru": "Мы запрещаем курение.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЧТО ДЕЛАЕМ?",
+          "text": "forbid"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "smoking"
+        }
+      ]
     },
     {
       "id": "forget",
       "verb": "forget",
       "frame": "svo",
       "en": "I forget names.",
-      "ru": "Я забываю имена."
+      "ru": "Я забываю имена.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "forget"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "names"
+        }
+      ]
     },
     {
       "id": "forgive",
       "verb": "forgive",
       "frame": "svo",
       "en": "I forgive my brother.",
-      "ru": "Я прощаю своего брата."
+      "ru": "Я прощаю своего брата.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "forgive"
+        },
+        {
+          "question": "КОГО?",
+          "text": "my brother"
+        }
+      ]
     },
     {
       "id": "freeze",
       "verb": "freeze",
       "frame": "svo",
       "en": "I freeze vegetables.",
-      "ru": "Я замораживаю овощи."
+      "ru": "Я замораживаю овощи.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "freeze"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "vegetables"
+        }
+      ]
     },
     {
       "id": "have",
       "verb": "have",
       "frame": "svo",
       "en": "I have a bike.",
-      "ru": "У меня есть велосипед."
+      "ru": "У меня есть велосипед.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "have"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a bike"
+        }
+      ]
     },
     {
       "id": "hide",
       "verb": "hide",
       "frame": "svo",
       "en": "I hide the present.",
-      "ru": "Я прячу подарок."
+      "ru": "Я прячу подарок.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "hide"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the present"
+        }
+      ]
     },
     {
       "id": "hit",
       "verb": "hit",
       "frame": "svo",
       "en": "I hit the ball.",
-      "ru": "Я ударяю по мячу."
+      "ru": "Я ударяю по мячу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "hit"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the ball"
+        }
+      ]
     },
     {
       "id": "hold",
       "verb": "hold",
       "frame": "svo",
       "en": "I hold the baby.",
-      "ru": "Я держу малыша на руках."
+      "ru": "Я держу малыша на руках.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "hold"
+        },
+        {
+          "question": "КОГО?",
+          "text": "the baby"
+        }
+      ]
     },
     {
       "id": "keep",
       "verb": "keep",
       "frame": "svo",
       "en": "I keep old letters.",
-      "ru": "Я храню старые письма."
+      "ru": "Я храню старые письма.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "keep"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "old letters"
+        }
+      ]
     },
     {
       "id": "know",
       "verb": "know",
       "frame": "svo",
       "en": "I know the answer.",
-      "ru": "Я знаю ответ."
+      "ru": "Я знаю ответ.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "know"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the answer"
+        }
+      ]
     },
     {
       "id": "lead",
       "verb": "lead",
       "frame": "svo",
       "en": "I lead the team.",
-      "ru": "Я руковожу командой."
+      "ru": "Я руковожу командой.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "lead"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the team"
+        }
+      ]
     },
     {
       "id": "learn",
       "verb": "learn",
       "frame": "svo",
       "en": "I learn new words.",
-      "ru": "Я учу новые слова."
+      "ru": "Я учу новые слова.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "learn"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "new words"
+        }
+      ]
     },
     {
       "id": "leave",
       "verb": "leave",
       "frame": "svo",
       "en": "I leave the room.",
-      "ru": "Я выхожу из комнаты."
+      "ru": "Я выхожу из комнаты.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "leave"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the room"
+        }
+      ]
     },
     {
       "id": "light",
       "verb": "light",
       "frame": "svo",
       "en": "I light a candle.",
-      "ru": "Я зажигаю свечу."
+      "ru": "Я зажигаю свечу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "light"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a candle"
+        }
+      ]
     },
     {
       "id": "lose",
       "verb": "lose",
       "frame": "svo",
       "en": "I lose my keys.",
-      "ru": "Я теряю свои ключи."
+      "ru": "Я теряю свои ключи.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "lose"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my keys"
+        }
+      ]
     },
     {
       "id": "mean",
       "verb": "mean",
       "frame": "svo",
       "en": "These words mean “home”.",
-      "ru": "Эти слова означают «дом»."
+      "ru": "Эти слова означают «дом».",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "These words"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "mean"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "“home”"
+        }
+      ]
     },
     {
       "id": "meet",
       "verb": "meet",
       "frame": "svo",
       "en": "I meet my friends.",
-      "ru": "Я встречаюсь с друзьями."
+      "ru": "Я встречаюсь с друзьями.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "meet"
+        },
+        {
+          "question": "КОГО?",
+          "text": "my friends"
+        }
+      ]
     },
     {
       "id": "read",
       "verb": "read",
       "frame": "svo",
       "en": "I read a book.",
-      "ru": "Я читаю книгу."
+      "ru": "Я читаю книгу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "read"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a book"
+        }
+      ]
     },
     {
       "id": "say",
       "verb": "say",
       "frame": "svo",
       "en": "I say a few words.",
-      "ru": "Я произношу несколько слов."
+      "ru": "Я произношу несколько слов.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "say"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a few words"
+        }
+      ]
     },
     {
       "id": "sell",
       "verb": "sell",
       "frame": "svo",
       "en": "We sell books.",
-      "ru": "Мы продаём книги."
+      "ru": "Мы продаём книги.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЧТО ДЕЛАЕМ?",
+          "text": "sell"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "books"
+        }
+      ]
     },
     {
       "id": "sew",
       "verb": "sew",
       "frame": "svo",
       "en": "I sew clothes.",
-      "ru": "Я шью одежду."
+      "ru": "Я шью одежду.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "sew"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "clothes"
+        }
+      ]
     },
     {
       "id": "shake",
       "verb": "shake",
       "frame": "svo",
       "en": "I shake the bottle.",
-      "ru": "Я встряхиваю бутылку."
+      "ru": "Я встряхиваю бутылку.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "shake"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the bottle"
+        }
+      ]
     },
     {
       "id": "shoot",
       "verb": "shoot",
       "frame": "svo",
       "en": "I shoot a video.",
-      "ru": "Я снимаю видео."
+      "ru": "Я снимаю видео.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "shoot"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a video"
+        }
+      ]
     },
     {
       "id": "shut",
       "verb": "shut",
       "frame": "svo",
       "en": "I shut the door.",
-      "ru": "Я закрываю дверь."
+      "ru": "Я закрываю дверь.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "shut"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the door"
+        }
+      ]
     },
     {
       "id": "sing",
       "verb": "sing",
       "frame": "svo",
       "en": "I sing a song.",
-      "ru": "Я пою песню."
+      "ru": "Я пою песню.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "sing"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a song"
+        }
+      ]
     },
     {
       "id": "spell",
       "verb": "spell",
       "frame": "svo",
       "en": "I spell my name.",
-      "ru": "Я произношу своё имя по буквам."
+      "ru": "Я произношу своё имя по буквам.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "spell"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my name"
+        }
+      ]
     },
     {
       "id": "spend",
       "verb": "spend",
       "frame": "svo",
       "en": "I spend money.",
-      "ru": "Я трачу деньги."
+      "ru": "Я трачу деньги.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "spend"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "money"
+        }
+      ]
     },
     {
       "id": "steal",
       "verb": "steal",
       "frame": "svo",
       "en": "Thieves steal money.",
-      "ru": "Воры крадут деньги."
+      "ru": "Воры крадут деньги.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "Thieves"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "steal"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "money"
+        }
+      ]
     },
     {
       "id": "sting",
       "verb": "sting",
       "frame": "svo",
       "en": "Bees sting people.",
-      "ru": "Пчёлы жалят людей."
+      "ru": "Пчёлы жалят людей.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "Bees"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "sting"
+        },
+        {
+          "question": "КОГО?",
+          "text": "people"
+        }
+      ]
     },
     {
       "id": "sweep",
       "verb": "sweep",
       "frame": "svo",
       "en": "I sweep the floor.",
-      "ru": "Я подметаю пол."
+      "ru": "Я подметаю пол.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "sweep"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the floor"
+        }
+      ]
     },
     {
       "id": "throw",
       "verb": "throw",
       "frame": "svo",
       "en": "I throw the ball.",
-      "ru": "Я бросаю мяч."
+      "ru": "Я бросаю мяч.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "throw"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the ball"
+        }
+      ]
     },
     {
       "id": "take",
       "verb": "take",
       "frame": "svo",
       "en": "I take a photo.",
-      "ru": "Я делаю фотографию."
+      "ru": "Я делаю фотографию.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "take"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a photo"
+        }
+      ]
     },
     {
       "id": "tear",
       "verb": "tear",
       "frame": "svo",
       "en": "I tear the paper.",
-      "ru": "Я рву бумагу."
+      "ru": "Я рву бумагу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "tear"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the paper"
+        }
+      ]
     },
     {
       "id": "understand",
       "verb": "understand",
       "frame": "svo",
       "en": "I understand the question.",
-      "ru": "Я понимаю вопрос."
+      "ru": "Я понимаю вопрос.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "understand"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the question"
+        }
+      ]
     },
     {
       "id": "wear",
       "verb": "wear",
       "frame": "svo",
       "en": "I wear glasses.",
-      "ru": "Я ношу очки."
+      "ru": "Я ношу очки.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "wear"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "glasses"
+        }
+      ]
     },
     {
       "id": "win",
       "verb": "win",
       "frame": "svo",
       "en": "We win the game.",
-      "ru": "Мы выигрываем игру."
+      "ru": "Мы выигрываем игру.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЧТО ДЕЛАЕМ?",
+          "text": "win"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the game"
+        }
+      ]
     },
     {
       "id": "write",
       "verb": "write",
       "frame": "svo",
       "en": "I write a letter.",
-      "ru": "Я пишу письмо."
+      "ru": "Я пишу письмо.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "write"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a letter"
+        }
+      ]
     },
     {
       "id": "see",
       "verb": "see",
       "frame": "svo",
       "en": "I see a bird.",
-      "ru": "Я вижу птицу."
+      "ru": "Я вижу птицу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "see"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a bird"
+        }
+      ]
     },
     {
       "id": "be",
       "verb": "be",
       "frame": "svc",
       "en": "We are happy.",
-      "ru": "Мы счастливы."
+      "ru": "Мы счастливы.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЕСТЬ (СВЯЗКА)",
+          "text": "are"
+        },
+        {
+          "question": "КАКИЕ?",
+          "text": "happy"
+        }
+      ]
     },
     {
       "id": "become",
       "verb": "become",
       "frame": "svc",
       "en": "I become nervous.",
-      "ru": "Я начинаю нервничать."
+      "ru": "Я начинаю нервничать.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "СТАНОВЛЮСЬ",
+          "text": "become"
+        },
+        {
+          "question": "КАКОЙ?",
+          "text": "nervous"
+        }
+      ]
     },
     {
       "id": "feel",
       "verb": "feel",
       "frame": "svc",
       "en": "I feel tired.",
-      "ru": "Я чувствую усталость."
+      "ru": "Я чувствую усталость.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧУВСТВУЮ СЕБЯ",
+          "text": "feel"
+        },
+        {
+          "question": "КАКОЙ?",
+          "text": "tired"
+        }
+      ]
     },
     {
       "id": "get",
       "verb": "get",
       "frame": "svc",
       "en": "I get hungry.",
-      "ru": "Я начинаю испытывать голод."
+      "ru": "Я начинаю испытывать голод.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "СТАНОВЛЮСЬ",
+          "text": "get"
+        },
+        {
+          "question": "КАКОЙ?",
+          "text": "hungry"
+        }
+      ]
     },
     {
       "id": "smell",
       "verb": "smell",
       "frame": "svc",
       "en": "These flowers smell good.",
-      "ru": "Эти цветы приятно пахнут."
+      "ru": "Эти цветы приятно пахнут.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "These flowers"
+        },
+        {
+          "question": "ПАХНУТ",
+          "text": "smell"
+        },
+        {
+          "question": "КАКИЕ?",
+          "text": "good"
+        }
+      ]
     },
     {
       "id": "go",
       "verb": "go",
       "frame": "place",
       "en": "I go to school.",
-      "ru": "Я хожу в школу."
+      "ru": "Я хожу в школу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "go"
+        },
+        {
+          "question": "КУДА?",
+          "text": "to school"
+        }
+      ]
     },
     {
       "id": "drive",
       "verb": "drive",
       "frame": "place",
       "en": "I drive to work.",
-      "ru": "Я езжу на работу на машине."
+      "ru": "Я езжу на работу на машине.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "drive"
+        },
+        {
+          "question": "КУДА?",
+          "text": "to work"
+        }
+      ]
     },
     {
       "id": "ride",
       "verb": "ride",
       "frame": "place",
       "en": "I ride to the park.",
-      "ru": "Я езжу в парк."
+      "ru": "Я езжу в парк.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "ride"
+        },
+        {
+          "question": "КУДА?",
+          "text": "to the park"
+        }
+      ]
     },
     {
       "id": "come",
       "verb": "come",
       "frame": "place",
       "en": "I come to the office.",
-      "ru": "Я прихожу в офис."
+      "ru": "Я прихожу в офис.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "come"
+        },
+        {
+          "question": "КУДА?",
+          "text": "to the office"
+        }
+      ]
     },
     {
       "id": "sit",
       "verb": "sit",
       "frame": "place",
       "en": "I sit on a chair.",
-      "ru": "Я сижу на стуле."
+      "ru": "Я сижу на стуле.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "sit"
+        },
+        {
+          "question": "ГДЕ?",
+          "text": "on a chair"
+        }
+      ]
     },
     {
       "id": "put",
       "verb": "put",
       "frame": "object-place",
       "en": "I put my keys on the table.",
-      "ru": "Я кладу свои ключи на стол."
+      "ru": "Я кладу свои ключи на стол.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "put"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my keys"
+        },
+        {
+          "question": "КУДА?",
+          "text": "on the table"
+        }
+      ]
     },
     {
       "id": "set",
       "verb": "set",
       "frame": "object-place",
       "en": "I set the cup on the table.",
-      "ru": "Я ставлю чашку на стол."
+      "ru": "Я ставлю чашку на стол.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "set"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "the cup"
+        },
+        {
+          "question": "КУДА?",
+          "text": "on the table"
+        }
+      ]
     },
     {
       "id": "hang",
       "verb": "hang",
       "frame": "object-place",
       "en": "I hang my coat on a hook.",
-      "ru": "Я вешаю пальто на крючок."
+      "ru": "Я вешаю пальто на крючок.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "hang"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my coat"
+        },
+        {
+          "question": "КУДА?",
+          "text": "on a hook"
+        }
+      ]
     },
     {
       "id": "stick",
       "verb": "stick",
       "frame": "object-place",
       "en": "I stick a stamp on the envelope.",
-      "ru": "Я наклеиваю марку на конверт."
+      "ru": "Я наклеиваю марку на конверт.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "stick"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a stamp"
+        },
+        {
+          "question": "КУДА?",
+          "text": "on the envelope"
+        }
+      ]
     },
     {
       "id": "bring",
       "verb": "bring",
       "frame": "svoo",
       "en": "I bring my friend some coffee.",
-      "ru": "Я приношу своему другу кофе."
+      "ru": "Я приношу своему другу кофе.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "bring"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my friend"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "some coffee"
+        }
+      ]
     },
     {
       "id": "give",
       "verb": "give",
       "frame": "svoo",
       "en": "I give my sister a book.",
-      "ru": "Я даю своей сестре книгу."
+      "ru": "Я даю своей сестре книгу.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "give"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my sister"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a book"
+        }
+      ]
     },
     {
       "id": "lend",
       "verb": "lend",
       "frame": "svoo",
       "en": "I lend my friend my bike.",
-      "ru": "Я одалживаю другу свой велосипед."
+      "ru": "Я одалживаю другу свой велосипед.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "lend"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my friend"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "my bike"
+        }
+      ]
     },
     {
       "id": "send",
       "verb": "send",
       "frame": "svoo",
       "en": "I send my mother a message.",
-      "ru": "Я отправляю маме сообщение."
+      "ru": "Я отправляю маме сообщение.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "send"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my mother"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a message"
+        }
+      ]
     },
     {
       "id": "show",
       "verb": "show",
       "frame": "svoo",
       "en": "I show my teacher a photo.",
-      "ru": "Я показываю учителю фотографию."
+      "ru": "Я показываю учителю фотографию.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "show"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my teacher"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a photo"
+        }
+      ]
     },
     {
       "id": "teach",
       "verb": "teach",
       "frame": "svoo",
       "en": "I teach children English.",
-      "ru": "Я учу детей английскому языку."
+      "ru": "Я учу детей английскому языку.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "teach"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "children"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "English"
+        }
+      ]
     },
     {
       "id": "tell",
       "verb": "tell",
       "frame": "svoo",
       "en": "I tell my son a story.",
-      "ru": "Я рассказываю сыну историю."
+      "ru": "Я рассказываю сыну историю.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "tell"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "my son"
+        },
+        {
+          "question": "ЧТО?",
+          "text": "a story"
+        }
+      ]
     },
     {
       "id": "deal",
       "verb": "deal",
       "frame": "prep",
       "en": "I deal with problems.",
-      "ru": "Я разбираюсь с проблемами."
+      "ru": "Я разбираюсь с проблемами.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "deal"
+        },
+        {
+          "question": "С ЧЕМ?",
+          "text": "with problems"
+        }
+      ]
     },
     {
       "id": "dream",
       "verb": "dream",
       "frame": "prep",
       "en": "I dream about holidays.",
-      "ru": "Я мечтаю о каникулах."
+      "ru": "Я мечтаю о каникулах.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "dream"
+        },
+        {
+          "question": "О ЧЁМ?",
+          "text": "about holidays"
+        }
+      ]
     },
     {
       "id": "fight",
       "verb": "fight",
       "frame": "prep",
       "en": "We fight for our rights.",
-      "ru": "Мы боремся за свои права."
+      "ru": "Мы боремся за свои права.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "We"
+        },
+        {
+          "question": "ЧТО ДЕЛАЕМ?",
+          "text": "fight"
+        },
+        {
+          "question": "ЗА ЧТО?",
+          "text": "for our rights"
+        }
+      ]
     },
     {
       "id": "hear",
       "verb": "hear",
       "frame": "prep",
       "en": "I hear from my sister.",
-      "ru": "Я получаю новости от сестры."
+      "ru": "Я получаю новости от сестры.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "hear"
+        },
+        {
+          "question": "ОТ КОГО?",
+          "text": "from my sister"
+        }
+      ]
     },
     {
       "id": "pay",
       "verb": "pay",
       "frame": "prep",
       "en": "I pay for lunch.",
-      "ru": "Я плачу за обед."
+      "ru": "Я плачу за обед.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "pay"
+        },
+        {
+          "question": "ЗА ЧТО?",
+          "text": "for lunch"
+        }
+      ]
     },
     {
       "id": "speak",
       "verb": "speak",
       "frame": "prep",
       "en": "I speak to my teacher.",
-      "ru": "Я разговариваю с учителем."
+      "ru": "Я разговариваю с учителем.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "speak"
+        },
+        {
+          "question": "С КЕМ?",
+          "text": "to my teacher"
+        }
+      ]
     },
     {
       "id": "think",
       "verb": "think",
       "frame": "prep",
       "en": "I think about my family.",
-      "ru": "Я думаю о своей семье."
+      "ru": "Я думаю о своей семье.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮ?",
+          "text": "think"
+        },
+        {
+          "question": "О КОМ?",
+          "text": "about my family"
+        }
+      ]
     },
     {
       "id": "swear",
       "verb": "swear",
       "frame": "prep",
       "en": "They swear at the referee.",
-      "ru": "Они ругаются на судью."
+      "ru": "Они ругаются на судью.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "They"
+        },
+        {
+          "question": "ЧТО ДЕЛАЮТ?",
+          "text": "swear"
+        },
+        {
+          "question": "НА КОГО?",
+          "text": "at the referee"
+        }
+      ]
     },
     {
       "id": "let",
       "verb": "let",
       "frame": "causative",
       "en": "I let him go.",
-      "ru": "Я позволяю ему уйти."
+      "ru": "Я позволяю ему уйти.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ПОЗВОЛЯЮ",
+          "text": "let"
+        },
+        {
+          "question": "КОМУ?",
+          "text": "him"
+        },
+        {
+          "question": "ЧТО СДЕЛАТЬ?",
+          "text": "go"
+        }
+      ]
     },
     {
       "id": "make",
       "verb": "make",
       "frame": "causative",
       "en": "I make him laugh.",
-      "ru": "Я смешу его."
+      "ru": "Я смешу его.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "ЗАСТАВЛЯЮ",
+          "text": "make"
+        },
+        {
+          "question": "КОГО?",
+          "text": "him"
+        },
+        {
+          "question": "ЧТО СДЕЛАТЬ?",
+          "text": "laugh"
+        }
+      ]
     },
     {
       "id": "cost",
       "verb": "cost",
       "frame": "amount",
       "en": "These books cost ten dollars.",
-      "ru": "Эти книги стоят десять долларов."
+      "ru": "Эти книги стоят десять долларов.",
+      "parts": [
+        {
+          "question": "ЧТО?",
+          "text": "These books"
+        },
+        {
+          "question": "СТОЯТ",
+          "text": "cost"
+        },
+        {
+          "question": "СКОЛЬКО?",
+          "text": "ten dollars"
+        }
+      ]
     },
     {
       "id": "can",
       "verb": "can",
       "frame": "modal",
       "en": "I can swim.",
-      "ru": "Я умею плавать."
+      "ru": "Я умею плавать.",
+      "parts": [
+        {
+          "question": "КТО?",
+          "text": "I"
+        },
+        {
+          "question": "МОГУ / УМЕЮ",
+          "text": "can"
+        },
+        {
+          "question": "ЧТО ДЕЛАТЬ?",
+          "text": "swim"
+        }
+      ]
     }
   ]
 };
